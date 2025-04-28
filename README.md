@@ -370,7 +370,7 @@
 <a href="https://www.linkedin.com/in/archit-rathod">
   <img align="left" alt="Archit's LinkedIN" width="22px" src="assets/linkedin.svg" />
 </a>
-<a href="mailto:architrathod77@gmail.com">
+<a href="mailto:arath21@uic.edu">
   <img align="left" alt="Archit's Mail" width="22px" src="assets/mail.svg" />
 </a>
 <a href="https://discordapp.com/users/795287895681925151/">
