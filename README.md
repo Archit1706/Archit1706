@@ -263,9 +263,11 @@
 
 -   Open Source Project <img src="https://i.giphy.com/media/FNqoTH4S3ZBheBVYlN/giphy.webp" alt="Girl in a jacket" width="45" height="30">
 
-| Web / App |               Demo                |                      Contribute                      |
-| --------- | :-------------------------------: | :--------------------------------------------------: |
-| DSA-30    | [link](https://dsa30.vercel.app/) | [link](https://github.com/Archit1706/DSA-30/#readme) |
+| Web / App |                 Demo                  |                      Contribute                      |
+| --------- | :-----------------------------------: | :--------------------------------------------------: |
+| DSAverse  | [link](https://dsa-verse.vercel.app/) |    [link](https://github.com/Archit1706/DSAverse)    |
+| DSA-30    |   [link](https://dsa30.vercel.app/)   | [link](https://github.com/Archit1706/DSA-30/#readme) |
+
 
 -   ML Based - Web Projects
 
