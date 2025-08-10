@@ -254,8 +254,8 @@
 
 ### Status
 
--   🗺️ I am currently a contributor on Google Summer of Code 2025 building a Temporary Road CLosures API and Database for OpenStreetMap.
--   🔭 I researched on mitigating misinformation on YouTube and studied cross platform effect of Twitter tweets on YouTube videos.
+-   🗺️ I am currently a contributor at Google Summer of Code 2025, building a Temporary Road Closures API and Database for OpenStreetMap.
+-   🔭 I have researched on mitigating misinformation on YouTube and studied cross platform effect of Twitter tweets on YouTube videos.
 -   🌱 I’m currently making a machine learn!
 -   👥 I’m looking to collaborate on FullStack MERN / Next.js / FastAPI projects
 -   📫 How to reach me: Click [Here](https://www.archit-rathod.vercel.app/#contact)
@@ -272,7 +272,7 @@
 
 
 
--   ML Based - Web Projects
+-   AI ML Based - Web Projects
 
 | Web App              | Front End             | Back End (Server / Database)                  | ML (Model / Dataset / Library)                              |                     Live Demo                     |                          Repo                           |
 | -------------------- | --------------------- | --------------------------------------------- | ----------------------------------------------------------- | :-----------------------------------------------: | :-----------------------------------------------------: |
