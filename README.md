@@ -254,9 +254,10 @@
 
 ### Status
 
--   🔭 I’m currently researching on mitigating misinformation on YouTube
+-   🗺️ I am currently a contributor on Google Summer of Code 2025 building a Temporary Road CLosures API and Database for OpenStreetMap.
+-   🔭 I researched on mitigating misinformation on YouTube and studied cross platform effect of Twitter tweets on YouTube videos.
 -   🌱 I’m currently making a machine learn!
--   👥 I’m looking to collaborate on Fullstack MERN / Next.js projects
+-   👥 I’m looking to collaborate on FullStack MERN / Next.js / FastAPI projects
 -   📫 How to reach me: Click [Here](https://www.archit-rathod.vercel.app/#contact)
 
 ### Projects
