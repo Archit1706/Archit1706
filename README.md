@@ -266,7 +266,7 @@
 
 | Web / App                                |                 Demo                  |                              Contribute                              |
 | ---------------------------------------- | :-----------------------------------: | :------------------------------------------------------------------: |
-| Temporary Road Closures API and Database |                 [-]()                 | [link](https://github.com/Archit1706/temporary-road-closures#readme) |
+| Temporary Road Closures API and Database |    [link](https://closures.osm.ch)    | [link](https://github.com/Archit1706/temporary-road-closures#readme) |
 | DSAverse                                 | [link](https://dsa-verse.vercel.app/) |            [link](https://github.com/Archit1706/DSAverse)            |
 | DSA-30                                   |   [link](https://dsa30.vercel.app/)   |         [link](https://github.com/Archit1706/DSA-30/#readme)         |
 
