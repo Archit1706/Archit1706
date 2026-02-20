@@ -262,10 +262,11 @@
 
 ### Projects
 
--   Open Source Project <img src="https://i.giphy.com/media/FNqoTH4S3ZBheBVYlN/giphy.webp" alt="Girl in a jacket" width="45" height="30">
+-   Open Source Project <img src="https://i.giphy.com/media/FNqoTH4S3ZBheBVYlN/giphy.webp" alt="New gif" width="45" height="30">
 
 | Web / App                                |                 Demo                  |                              Contribute                              |
 | ---------------------------------------- | :-----------------------------------: | :------------------------------------------------------------------: |
+| FairLint-DL VSCode Extension             |                  [-]()                |          [link](https://github.com/Archit1706/FairLint-DL)           |
 | Temporary Road Closures API and Database |    [link](https://closures.osm.ch)    | [link](https://github.com/Archit1706/temporary-road-closures#readme) |
 | DSAverse                                 | [link](https://dsa-verse.vercel.app/) |            [link](https://github.com/Archit1706/DSAverse)            |
 | DSA-30                                   |   [link](https://dsa30.vercel.app/)   |         [link](https://github.com/Archit1706/DSA-30/#readme)         |
