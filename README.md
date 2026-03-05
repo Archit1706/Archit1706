@@ -1,18 +1,13 @@
 ### 👋 Hi there! My name is [Archit Rathod](https://archit-rathod.vercel.app/)
 
--   🧑🏻‍🎓 **MS CS Student** at **University of Illinois at Chicago**
+-   🧑🏻‍🎓 **MS CS Student** at **University of Illinois Chicago**
 -   📚 **Learner**
--   💻 **Full Stack Developer**
+-   💻 **Software Engineer | Full Stack Developer**
 -   🔍 **Researcher**
-
-<!-- poster -->
-<!--
-![I am TE IT Student, Learner, Web Developer](https://github.com/Archit1706/Archit1706/blob/main/Poster%20Archit%20Rathod.png)
--->
 
 ### About
 
-🚀 Exploring Machine Learning and crafting Full Stack Projects with Next.Js 💻. Proficient in C++ and Python Programming 🐍. Hardworking, disciplined, and consistent in my work ethic. 📚 Love reading books and enjoy learning new things daily. ✈️ Passionate about traveling to new places and meeting new people, despite being an introvert. Easy to talk to! In my free time, I delve into finance, reading and learning about investments. That's me! 😄
+🚀 Exploring Machine Learning and building scalable cloud-native systems and data pipelines 💻. Proficient in Python, TypeScript, and C++ 🐍. Focused on Responsible AI and algorithmic fairness. Hardworking, disciplined, and consistent in my work ethic. 📚 Love reading books and enjoy learning new things daily. ✈️ Passionate about traveling to new places and meeting new people, despite being an introvert. Easy to talk to! In my free time, I delve into quantitative finance, investing, and solving logic puzzles. That's me! 😄
 
 ### Skills
 
@@ -106,6 +101,14 @@
               height="50"
               title="Plotly"
             />
+    </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img
+              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg"
+              alt="pytorch"
+              width="40"
+              height="40"
+              title="PyTorch"
+            />
     </a>
 
 -   **Tools / Frameworks** : <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
@@ -133,13 +136,13 @@
             style="background-color: 'white'; padding: '2px'"
             title="Next.js"
     />
-    </a> <a href="https://jquery.com/" target="_blank" rel="noreferrer">
+    </a> <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
     <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg"
-            alt="jQuery"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg"
+            alt="fastapi"
             width="40"
             height="40"
-            title="jQuery"
+            title="FastAPI"
         />
     </a> <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img
@@ -148,14 +151,6 @@
             width="40"
             height="40"
             title="Postman"
-        />
-    </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
-            alt="css3"
-            width="40"
-            height="40"
-            title="CSS"
         />
     </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img
@@ -184,29 +179,21 @@
         />
     </a>
 
--   **Devops** : <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
+-   **Devops** : <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img
-            src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original.svg"
-            alt="netlify"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
+            alt="docker"
             width="40"
             height="40"
-            title="Netlify"
+            title="Docker"
         />
-    </a> <a href="https://www.heroku.com/" target="_blank" rel="noreferrer">
+    </a> <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg"
-            alt="heroku"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+            alt="aws"
             width="40"
             height="40"
-            title="Heroku"
-        />
-    </a> <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-    <img
-            src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png"
-            alt="vercel"
-            width="40"
-            height="40"
-            title="Vercel"
+            title="AWS"
         />
     </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
     <img
@@ -215,6 +202,14 @@
             width="40"
             height="40"
             title="Google Cloud"
+        />
+    </a> <a href="https://vercel.com/" target="_blank" rel="noreferrer">
+    <img
+            src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png"
+            alt="vercel"
+            width="40"
+            height="40"
+            title="Vercel"
         />
     </a>
 
@@ -233,6 +228,14 @@
             width="40"
             height="40"
             title="MongoDB"
+        />
+    </a> <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
+            alt="postgresql"
+            width="40"
+            height="40"
+            title="PostgreSQL"
         />
     </a> <a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer">
     <img
@@ -254,10 +257,11 @@
 
 ### Status
 
--   🗺️ I am currently a contributor at Google Summer of Code 2025, building a Temporary Road Closures API and Database for OpenStreetMap.
--   🔭 I have researched on mitigating misinformation on YouTube and studied cross platform effect of Twitter tweets on YouTube videos.
--   🌱 I’m currently making a machine learn!
--   👥 I’m looking to collaborate on FullStack MERN / Next.js / FastAPI projects
+-   🗺️ I am currently a Research Assistant at the Urban Transportation Center at UIC.
+-   🏆 I successfully completed Google Summer of Code 2025, building a Temporary Road Closures API and Database for OpenStreetMap.
+-   🔭 I have engineered data pipelines for large-scale behavioral simulations and researched mitigating misinformation on YouTube.
+-   🌱 I’m currently focused on ML fairness debugging, causal analysis, and building full-stack microservices!
+-   💼 **I am actively looking for full-time Software Engineering, AI/ML, or Full-Stack roles starting in 2026!**
 -   📫 How to reach me: Click [Here](https://www.archit-rathod.vercel.app/#contact)
 
 ### Projects
@@ -275,61 +279,57 @@
 
 -   AI ML Based - Web Projects
 
-| Web App              | Front End             | Back End (Server / Database)                  | ML (Model / Dataset / Library)                              |                     Live Demo                     |                          Repo                           |
+| Web App              | Front End             | Back End (Server / Database)                  | ML (Model / Dataset / Library)                              |                    Live Demo                    |                           Repo                           |
 | -------------------- | --------------------- | --------------------------------------------- | ----------------------------------------------------------- | :-----------------------------------------------: | :-----------------------------------------------------: |
 | Real Estate AI       | Next.js, Tailwind CSS | Fast API, SerpAPI, Zillow API, Google Cloud Run | Hugging Face, OpenAI                                      |    [link](https://cs532-project.vercel.app/)      |  [link](https://github.com/Archit1706/cs532-project)  |
 | Multi Document Agent | Next.js, Tailwind CSS | Fast API                                      | Llama Index, OpenAI                                         |    [link](https://multi-doc-agent.vercel.app/)    |  [link](https://github.com/Archit1706/multi-doc-agent)  |
-| FitSphere            | Next.js, Tailwind CSS | Fast API, MongoDB, Node.js                    | OpenCV, OpenAI                                              |       [link](https://fitsphere.vercel.app/)       |     [link](https://github.com/Archit1706/FitSphere)     |
-| Ascend AI            | Next.js, Tailwind CSS | Fast API, MongoDB                             | OpenCV, Transformers, OpenAI, Librosa                       |     [link](https://ascend-ai-mpr.vercel.app/)     |     [link](https://github.com/Archit1706/AscendAI)      |
-| PhishiFence          | Next.js, Tailwind CSS | Fast API, WhoisDB, Chrome Extension, Selenium | OpenCV, Transformers, OpenAI, LightGBM                      |      [link](https://phishfence.vercel.app/)       |    [link](https://github.com/Archit1706/PhishFence)     |
-| SwarBhaav            | Next.js, Tailwind CSS | MongoDB, Fast API, Node.js                    | Librosa, Transformers, OpenAI                               |       [link](https://swarbhaav.vercel.app/)       |     [link](https://github.com/Archit1706/SwarBhaav)     |
-| Attire AI            | Next.js, Tailwind CSS | Flask                                         | Langchain, Stable Diffusion, NLTK, Llama                    |       [link](https://attire-ai.vercel.app/)       |     [link](https://github.com/Archit1706/Attire-AI)     |
+| FitSphere            | Next.js, Tailwind CSS | Fast API, MongoDB, Node.js                    | OpenCV, OpenAI                                              |        [link](https://fitsphere.vercel.app/)        |      [link](https://github.com/Archit1706/FitSphere)      |
+| Ascend AI            | Next.js, Tailwind CSS | Fast API, MongoDB                             | OpenCV, Transformers, OpenAI, Librosa                       |      [link](https://ascend-ai-mpr.vercel.app/)      |      [link](https://github.com/Archit1706/AscendAI)       |
+| PhishiFence          | Next.js, Tailwind CSS | Fast API, WhoisDB, Chrome Extension, Selenium | OpenCV, Transformers, OpenAI, LightGBM                      |       [link](https://phishfence.vercel.app/)        |    [link](https://github.com/Archit1706/PhishFence)     |
+| SwarBhaav            | Next.js, Tailwind CSS | MongoDB, Fast API, Node.js                    | Librosa, Transformers, OpenAI                               |        [link](https://swarbhaav.vercel.app/)        |      [link](https://github.com/Archit1706/SwarBhaav)      |
+| Attire AI            | Next.js, Tailwind CSS | Flask                                         | Langchain, Stable Diffusion, NLTK, Llama                    |        [link](https://attire-ai.vercel.app/)        |      [link](https://github.com/Archit1706/Attire-AI)      |
 | Reflections          | Next.js, Tailwind CSS | MongoDB, Fast API, Prisma                     | BERT, NLP, Recommender, Summarizer                          |   [link](https://reflections-blog.vercel.app/)    | [link](https://github.com/Archit1706/Reflections-Blogs) |
-| Home Ginie           | Next.js, Tailwind CSS | Fast API                                      | Linear Regressor, US Housing Dataset                        |      [link](https://home-ginie.vercel.app/)       |    [link](https://github.com/Archit1706/Home-Ginie)     |
+| Home Ginie           | Next.js, Tailwind CSS | Fast API                                      | Linear Regressor, US Housing Dataset                        |       [link](https://home-ginie.vercel.app/)        |    [link](https://github.com/Archit1706/Home-Ginie)     |
 | The One Finder       | Next.js, Tailwind CSS | MongoDB, Fast API, Node.js                    | Recommender                                                 |    [link](https://the-one-finder.vercel.app/)     |  [link](https://github.com/Archit1706/The-One-Finder)   |
 | Social Vision        | Next.js, Tailwind CSS | MongoDB, Fast API                             | Recommender, WordCloud, Sentiment Analysis, Twitter Dataset | [link](https://network-analysis-weld.vercel.app/) |   [link](https://github.com/Archit1706/SocialVision)    |
 
 -   Web Projects
 
-| Web App                 | Front End                              | Back End                              |                          Live Demo                           |                                  Repo                                   |
+| Web App                 | Front End                              | Back End                              |                           Live Demo                           |                                 Repo                                 |
 | ----------------------- | -------------------------------------- | ------------------------------------- | :----------------------------------------------------------: | :---------------------------------------------------------------------: |
-| Chatzy                  | Next.js, Tailwind CSS, Typescript      | Express.js, Node.js, DiceBear API     |           [link](https://chatzy-4x9n.onrender.com)           |              [link](https://github.com/Archit1706/Chatzy)               |
-| RealEstate360           | Next.js, Tailwind CSS, Grunt, Three.js | MongoDB, Cloudinary, Node.js, FastAPI |          [link](https://realestate360.vercel.app/)           |           [link](https://github.com/Archit1706/RealEstate360)           |
-| Bid Bazaar              | Next.js, Tailwind CSS                  | MongoDB, Cloudinary, Node.js, Flask   |            [link](https://bid-bazaar.vercel.app/)            |          [link](https://github.com/Archit1706/TIAA-Hackathon)           |
-| Coupon Vault            | Next.js, Tailwind CSS                  | MongoDB, Fast API, Node.js            |           [link](https://coupon-vault.vercel.app/)           |           [link](https://github.com/Archit1706/Coupon-Vault)            |
-| Power Up                | React, Tailwind CSS                    | Node.js, MongoDB, API's               |           [link](https://powerup.sidd065.repl.co/)           |              [link](https://github.com/Archit1706/PowerUp)              |
-| First Paper             | Next.js, Tailwind CSS                  | ArXiv Dataset                         |           [link](https://first-paper.vercel.app/)            |            [link](https://github.com/Archit1706/First-Paper)            |
-| Moviescape              | React, Tailwind CSS                    | TMDB                                  |           [link](https://moviescape.netlify.app/)            |             [link](https://github.com/Archit1706/Movie-App)             |
-| Edu-Sys                 | React, Tailwind CSS                    | Node.js, MongoDB                      |           [link](https://edusys-tsec.vercel.app/)            |          [link](https://github.com/Archit1706/EduSys-Frontend)          |
+| Chatzy                  | Next.js, Tailwind CSS, Typescript      | Express.js, Node.js, DiceBear API     |            [link](https://chatzy-4x9n.onrender.com)            |               [link](https://github.com/Archit1706/Chatzy)                |
+| RealEstate360           | Next.js, Tailwind CSS, Grunt, Three.js | MongoDB, Cloudinary, Node.js, FastAPI |          [link](https://realestate360.vercel.app/)           |            [link](https://github.com/Archit1706/RealEstate360)            |
+| Bid Bazaar              | Next.js, Tailwind CSS                  | MongoDB, Cloudinary, Node.js, Flask   |             [link](https://bid-bazaar.vercel.app/)             |          [link](https://github.com/Archit1706/TIAA-Hackathon)           |
+| Coupon Vault            | Next.js, Tailwind CSS                  | MongoDB, Fast API, Node.js            |            [link](https://coupon-vault.vercel.app/)            |            [link](https://github.com/Archit1706/Coupon-Vault)             |
+| Power Up                | React, Tailwind CSS                    | Node.js, MongoDB, API's               |            [link](https://powerup.sidd065.repl.co/)            |               [link](https://github.com/Archit1706/PowerUp)               |
+| First Paper             | Next.js, Tailwind CSS                  | ArXiv Dataset                         |            [link](https://first-paper.vercel.app/)             |             [link](https://github.com/Archit1706/First-Paper)             |
+| Moviescape              | React, Tailwind CSS                    | TMDB                                  |            [link](https://moviescape.netlify.app/)             |              [link](https://github.com/Archit1706/Movie-App)              |
+| Edu-Sys                 | React, Tailwind CSS                    | Node.js, MongoDB                      |            [link](https://edusys-tsec.vercel.app/)             |          [link](https://github.com/Archit1706/EduSys-Frontend)          |
 | Healthy Me!             | React, Tailwind CSS                    | Node JS, MongoDB                      |                              -                               | [link](https://github.com/Archit1706/Codeissance_22_Keyboard-Interrupt) |
-| To Do App               | React, CSS                             | Node.js, MongoDB                      |     [link](https://calm-profiterole-70f2a5.netlify.app/)     |             [link](https://github.com/Archit1706/Todo-App)              |
-| Emoji Nation            | React, CSS                             | API                                   |          [link](https://emoji-nation.netlify.app/)           |           [link](https://github.com/Archit1706/Emoji-Nation)            |
+| To Do App               | React, CSS                             | Node.js, MongoDB                      |      [link](https://calm-profiterole-70f2a5.netlify.app/)      |              [link](https://github.com/Archit1706/Todo-App)               |
+| Emoji Nation            | React, CSS                             | API                                   |          [link](https://emoji-nation.netlify.app/)           |            [link](https://github.com/Archit1706/Emoji-Nation)             |
 | Daily Newsletter Signup | HTML, CSS, Bootstrap, JS               | Node.js                               |      [link](https://salty-hollows-02401.herokuapp.com/)      |      [link](https://github.com/Archit1706/Daily-Newsletter-Signup)      |
-| Personal Blog           | HTML, CSS, JS                          | Node.js (Express, EJS)                |     [link](https://personal-blog.architrathod1.repl.co/)     |           [link](https://github.com/Archit1706/Personal-Blog)           |
-| Weather Today           | HTML, CSS, JS                          | Node.js                               |     [link](https://weather-today.architrathod1.repl.co/)     |           [link](https://github.com/Archit1706/Weather-Today)           |
-| Simon Game              | HTML, CSS, JS                          | -                                     |     [link](https://archit1706.github.io/The-Simon-Game/)     |          [link](https://github.com/Archit1706/The-Simon-Game)           |
-| Image Gallery App       | HTML, CSS, JS                          | LocalStorage                          |       [link](https://image-gallery-upload.vercel.app/)       |         [link](https://github.com/Archit1706/Image-Gallery-App)         |
+| Personal Blog           | HTML, CSS, JS                          | Node.js (Express, EJS)                |      [link](https://personal-blog.architrathod1.repl.co/)      |            [link](https://github.com/Archit1706/Personal-Blog)            |
+| Weather Today           | HTML, CSS, JS                          | Node.js                               |      [link](https://weather-today.architrathod1.repl.co/)      |            [link](https://github.com/Archit1706/Weather-Today)            |
+| Simon Game              | HTML, CSS, JS                          | -                                     |      [link](https://archit1706.github.io/The-Simon-Game/)      |          [link](https://github.com/Archit1706/The-Simon-Game)           |
+| Image Gallery App       | HTML, CSS, JS                          | LocalStorage                          |        [link](https://image-gallery-upload.vercel.app/)        |         [link](https://github.com/Archit1706/Image-Gallery-App)         |
 | Random Quote Generator  | HTML, CSS, JS                          | -                                     | [link](https://archit1706.github.io/Random-Quote-Generator/) |      [link](https://github.com/Archit1706/Random-Quote-Generator)       |
 | Simple Calculator       | HTML, CSS, JS, jQuery                  | -                                     |   [link](https://archit1706.github.io/Simple-Calculator/)    |         [link](https://github.com/Archit1706/Simple-Calculator)         |
 
-<!--
-| Attire AI      | Next.js, Tailwind CSS | Flask                        | Langchain, Stable Diffusion, NLTK, Llama                    |       [link](https://attire-ai.vercel.app/)       | [link](https://github.com/Archit1706/Attire-AI) |
--->
-
 -   Python Projects
 
-| Python App               | Concept / Libraries Used |                                Demo                                |                                  Repo                                  |
+| Python App               | Concept / Libraries Used |                                Demo                                |                                Repo                                |
 | ------------------------ | ------------------------ | :----------------------------------------------------------------: | :--------------------------------------------------------------------: |
-| Background Image Remover | Flask, HTML, Rembg       |                               [-]()                                |            [link](https://github.com/Archit1706/BG-Remover)            |
+| Background Image Remover | Flask, HTML, Rembg       |                                [-]()                               |             [link](https://github.com/Archit1706/BG-Remover)             |
 | Cold Emailing            | Flask, HTML              |        [link](https://cold-emailing.architrathod1.repl.co/)        |          [link](https://github.com/Archit1706/Cold-Emailing)           |
 | GRE Words App            | OOPS, Pandas, Tkinter    |    [link](https://replit.com/@ArchitRathod1/GRE-Words-Practice)    |        [link](https://github.com/Archit1706/GRE-Words-Practice)        |
-| Pong Game                | OOPS, Tkinter            |        [link](https://replit.com/@ArchitRathod1/Pong-Game)         |            [link](https://github.com/Archit1706/Pong-Game)             |
+| Pong Game                | OOPS, Tkinter            |        [link](https://replit.com/@ArchitRathod1/Pong-Game)         |             [link](https://github.com/Archit1706/Pong-Game)              |
 | Indian States Game       | Tkinter, Pandas          |    [link](https://replit.com/@ArchitRathod1/India-States-Game)     |        [link](https://github.com/Archit1706/India-States-Game)         |
-| Snake Game               | OOPS, Tkinter            |        [link](https://replit.com/@ArchitRathod1/Snake-Game)        |            [link](https://github.com/Archit1706/SnakeGame)             |
-| Pomodoro Technique Timer | Tkinter                  | [link](https://replit.com/@ArchitRathod1/Pomodoro-Technique-Timer) |     [link](https://github.com/Archit1706/Pomodoro-Technique-Timer)     |
+| Snake Game               | OOPS, Tkinter            |        [link](https://replit.com/@ArchitRathod1/Snake-Game)        |             [link](https://github.com/Archit1706/SnakeGame)              |
+| Pomodoro Technique Timer | Tkinter                  | [link](https://replit.com/@ArchitRathod1/Pomodoro-Technique-Timer) |      [link](https://github.com/Archit1706/Pomodoro-Technique-Timer)      |
 | Proctor It!              | OpenCV, Tkinter, MySQL   |                                 -                                  | [link](https://github.com/Archit1706/PROCTOR_IT-A-Virtual-Invigilator) |
-| Mail Merger              | File Handling            |                              [link]()                              |           [link](https://github.com/Archit1706/Mail-Merger)            |
-| NATO Alphabet Generator  | Pandas                   |                                 -                                  |     [link](https://github.com/Archit1706/NATO-Phonetics-Generator)     |
+| Mail Merger              | File Handling            |                              [link]()                              |            [link](https://github.com/Archit1706/Mail-Merger)             |
+| NATO Alphabet Generator  | Pandas                   |                                 -                                  |      [link](https://github.com/Archit1706/NATO-Phonetics-Generator)      |
 | Hirst Painting           | Tkinter                  |      [link](https://replit.com/@ArchitRathod1/Hirst-Painting)      |          [link](https://github.com/Archit1706/Hirst-Painting)          |
 
 -   Java Project
@@ -343,36 +343,16 @@
 
 ### Github Stats
 
-|                                                              Most Languages Used                                                              |                                          GitHub Stats                                           |
+|                                                                              Most Languages Used                                                                               |                                          GitHub Stats                                          |
 | :-------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: |
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Archit1706)](https://github.com/anuraghazra/github-readme-stats) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Archit1706&show_icons=true) |
-
-<!--
-|                          Profile Views                           |
-| :--------------------------------------------------------------: |
-| ![Profile Views](https://komarev.com/ghpvc/?username=Archit1706) |
--->
 
 |                                                   Streak Tracker                                                    |
 | :-----------------------------------------------------------------------------------------------------------------: |
 | ![Profile Views](https://github-readme-streak-stats.herokuapp.com/?user=Archit1706&theme=radical&hide_border=false) |
 
-<!--
-|                                                          Profile Trophies                                                           |
-| :---------------------------------------------------------------------------------------------------------------------------------: |
-| ![Profile Views](https://github-profile-trophy.vercel.app/?username=Archit1706&theme=discord&no-frame=false&no-bg=false&margin-w=4) |
-
-|                                  Random Developer Quotes                                  |
-| :---------------------------------------------------------------------------------------: |
-| ![Profile Views](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko) |
-
--->
-
 ### Contact Me
 
-<!-- <a href="https://www.instagram.com/">
-  <img align="left" alt="Archit's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a> -->
 <a href="https://www.linkedin.com/in/archit-rathod">
   <img align="left" alt="Archit's LinkedIN" width="22px" src="assets/linkedin.svg" />
 </a>
