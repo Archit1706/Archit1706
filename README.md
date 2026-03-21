@@ -270,7 +270,8 @@
 
 | Web / App                                |                 Demo                  |                              Contribute                              |
 | ---------------------------------------- | :-----------------------------------: | :------------------------------------------------------------------: |
-| FairLint-DL VSCode Extension             |                  [-]()                |          [link](https://github.com/Archit1706/FairLint-DL)           |
+| Green Pipe                               |                  [-]()                |          [link](https://github.com/Archit1706/green-pipe)            |
+| FairLint-DL VSCode Extension             |[link](https://open-vsx.org/extension/fairness-tools/fairlint-dl)|  [link](https://github.com/Archit1706/FairLint-DL) |
 | Temporary Road Closures API and Database |    [link](https://closures.osm.ch)    | [link](https://github.com/Archit1706/temporary-road-closures#readme) |
 | DSAverse                                 | [link](https://dsa-verse.vercel.app/) |            [link](https://github.com/Archit1706/DSAverse)            |
 | DSA-30                                   |   [link](https://dsa30.vercel.app/)   |         [link](https://github.com/Archit1706/DSA-30/#readme)         |
