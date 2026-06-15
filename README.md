@@ -39,9 +39,9 @@ When I'm not building, I'm usually reading, traveling somewhere new, or lost in 
 </td>
 <td width="36%" valign="top">
 
-<video src="https://raw.githubusercontent.com/Archit1706/Archit1706/main/assets/intro-video.mp4" controls muted playsinline width="100%"></video>
+<a href="https://github.com/Archit1706/Archit1706/raw/main/assets/intro-video.mp4"><img src="assets/intro.webp" width="100%" alt="Archit intro video" /></a>
 
-<div align="center"><sub>&#9654;&nbsp;<a href="https://github.com/Archit1706/Archit1706/raw/main/assets/intro-video.mp4">Watch my intro</a></sub></div>
+<div align="center"><sub>&#9654;&nbsp;<a href="https://github.com/Archit1706/Archit1706/raw/main/assets/intro-video.mp4">Watch with sound</a></sub></div>
 
 </td>
 </tr>
