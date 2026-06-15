@@ -221,7 +221,7 @@ When I'm not building, I'm usually reading, traveling somewhere new, or lost in 
 ## The full archive
 
 <details>
-<summary><b>AI Agents and Skills</b></summary>
+<summary><b>AI Agents and Skills</b> &nbsp;<img src="assets/chevron.svg" width="18" alt="expand" /></summary>
 
 <br/>
 
@@ -232,7 +232,7 @@ When I'm not building, I'm usually reading, traveling somewhere new, or lost in 
 </details>
 
 <details>
-<summary><b>Open Source</b></summary>
+<summary><b>Open Source</b> &nbsp;<img src="assets/chevron.svg" width="18" alt="expand" /></summary>
 
 <br/>
 
@@ -247,7 +247,7 @@ When I'm not building, I'm usually reading, traveling somewhere new, or lost in 
 </details>
 
 <details>
-<summary><b>AI / ML Web Apps</b></summary>
+<summary><b>AI / ML Web Apps</b> &nbsp;<img src="assets/chevron.svg" width="18" alt="expand" /></summary>
 
 <br/>
 
@@ -268,7 +268,7 @@ When I'm not building, I'm usually reading, traveling somewhere new, or lost in 
 </details>
 
 <details>
-<summary><b>Web Projects</b></summary>
+<summary><b>Web Projects</b> &nbsp;<img src="assets/chevron.svg" width="18" alt="expand" /></summary>
 
 <br/>
 
@@ -296,7 +296,7 @@ When I'm not building, I'm usually reading, traveling somewhere new, or lost in 
 </details>
 
 <details>
-<summary><b>Python Projects</b></summary>
+<summary><b>Python Projects</b> &nbsp;<img src="assets/chevron.svg" width="18" alt="expand" /></summary>
 
 <br/>
 
@@ -317,7 +317,7 @@ When I'm not building, I'm usually reading, traveling somewhere new, or lost in 
 </details>
 
 <details>
-<summary><b>Java Project</b></summary>
+<summary><b>Java Project</b> &nbsp;<img src="assets/chevron.svg" width="18" alt="expand" /></summary>
 
 <br/>
 
