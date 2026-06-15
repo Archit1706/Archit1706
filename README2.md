@@ -47,6 +47,15 @@ When I'm not building, I'm usually reading, traveling somewhere new, or lost in 
 
 ## Tech I work with
 
+<div align="center">
+  <img src="assets/skills-marquee.svg" width="100%" alt="Animated tech stack flowing across lanes: languages, ML and AI, data, cloud, and geospatial" />
+</div>
+
+<details>
+<summary><b>The full stack, by category</b></summary>
+
+<br/>
+
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -125,6 +134,8 @@ When I'm not building, I'm usually reading, traveling somewhere new, or lost in 
 ![OpenLR](https://img.shields.io/badge/OpenLR-0F766E?style=for-the-badge)
 ![Valhalla](https://img.shields.io/badge/Valhalla-1F6FEB?style=for-the-badge)
 ![OpenTripPlanner](https://img.shields.io/badge/OpenTripPlanner-2E7D32?style=for-the-badge)
+
+</details>
 
 <div align="center"><img src="assets/divider.svg" width="70%" alt="" /></div>
 
