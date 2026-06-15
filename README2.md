@@ -164,15 +164,14 @@ The first GitLab Duo Agent implementing GSF standards (SCI, Carbon Aware SDK, Im
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Archit1706/fairlens">
-  <img src="https://opengraph.githubassets.com/v4/Archit1706/fairlens" width="100%" alt="FairLens" />
-</a>
+<img src="assets/fairlens-card.svg" width="100%" alt="FairLens - Counterfactual Fairness Audit Platform (in active development)" />
 
 <b>FairLens</b><br/>
-<sub>FAIRNESS &middot; AI AUDIT PLATFORM</sub><br/>
-Counterfactual fairness-testing and AI audit platform mapped to LL 144, EU AI Act Article 15, and Title VII. Relationship-aware counterfactuals detect 3-4x more discrimination than naive flip testing.
+<sub>STARTUP &middot; FAIRNESS &middot; IN ACTIVE DEVELOPMENT</sub><br/>
+Counterfactual fairness-testing and AI audit platform mapped to LL 144, EU AI Act Article 15, and Title VII. Currently building toward launch.
 <br/><br/>
-<a href="https://github.com/Archit1706/fairlens"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
+<img src="https://img.shields.io/badge/Status-In_Active_Development-F59E0B?style=for-the-badge" alt="Status: In Active Development" />
+<a href="https://pypi.org/project/relfair/"><img src="https://img.shields.io/badge/OSS_Core-relfair-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="OSS Core: relfair" /></a>
 
 </td>
 <td width="50%" valign="top">
