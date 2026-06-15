@@ -10,6 +10,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-archit--rathod.vercel.app-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://archit-rathod.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/archit-rathod)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Research-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=dgd_6_8AAAAJ&hl=en)
 [![Email](https://img.shields.io/badge/Email-Reach_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arath21@uic.edu)
 [![X](https://img.shields.io/badge/X-@ArchitRathod__17-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ArchitRathod_17)
 
@@ -351,6 +352,7 @@ When I'm not building, I'm usually reading, traveling somewhere new, or lost in 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://archit-rathod.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/archit-rathod)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=dgd_6_8AAAAJ&hl=en)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arath21@uic.edu)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ArchitRathod_17)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/795287895681925151/)
