@@ -68,7 +68,7 @@ _When I'm not building, I'm reading, traveling somewhere new, or lost in a logic
 ## Tech I work with
 
 <div align="center">
-  <img src="assets/skills-galaxy.svg" width="92%" alt="Tech galaxy: language, ML, framework, cloud and data icons orbiting a glowing core" />
+  <img src="assets/skills-galaxy-v3.svg" width="92%" alt="Tech solar system: category orbits of language, ML, framework, cloud, data and geospatial icons around a glowing AR core" />
 </div>
 
 <details>
