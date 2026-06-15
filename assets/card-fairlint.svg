@@ -1,0 +1,40 @@
+<svg width="1200" height="600" viewBox="0 0 1200 600" xmlns="http://www.w3.org/2000/svg" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b3a5e"/>
+      <stop offset="0.55" stop-color="#0284c7"/>
+      <stop offset="1" stop-color="#0ea5e9"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="600" rx="24" fill="url(#bg)"/>
+  <circle cx="1020" cy="150" r="205" fill="#ffffff" fill-opacity="0.06">
+    <animate attributeName="r" values="205;226;205" dur="8.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="160" cy="560" r="150" fill="#ffffff" fill-opacity="0.05"/>
+
+  <g transform="translate(855,170)">
+    <rect x="0" y="0" width="270" height="210" rx="16" fill="#06283d" fill-opacity="0.55" stroke="#ffffff" stroke-opacity="0.15" stroke-width="2"/>
+    <circle cx="26" cy="28" r="7" fill="#ff5f56"/>
+    <circle cx="50" cy="28" r="7" fill="#ffbd2e"/>
+    <circle cx="74" cy="28" r="7" fill="#27c93f"/>
+    <text x="34" y="135" fill="#ffffff" font-size="62" font-weight="800" font-family="monospace">&lt;/&gt;</text>
+    <path d="M34 162 q 12 -12 24 0 t 24 0 t 24 0 t 24 0 t 24 0" fill="none" stroke="#f59e0b" stroke-width="5"/>
+    <rect x="196" y="84" width="7" height="52" fill="#ffffff">
+      <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <text x="80" y="112" fill="#bae6fd" font-size="25" font-weight="700" letter-spacing="4">VS CODE EXTENSION · PUBLISHED</text>
+  <text x="74" y="248" fill="#ffffff" font-size="82" font-weight="800" letter-spacing="-2">FairLint-DL</text>
+  <text x="80" y="320" fill="#e0f2fe" font-size="35" font-weight="600">Fairness and bias linter for deep learning</text>
+  <text x="80" y="366" fill="#bae6fd" font-size="26">Catches bias issues right inside your editor.</text>
+
+  <g font-size="23" font-weight="700">
+    <rect x="80" y="420" width="170" height="54" rx="27" fill="#ffffff" fill-opacity="0.16"/>
+    <text x="165" y="455" fill="#ffffff" text-anchor="middle">VS Code</text>
+    <rect x="266" y="420" width="170" height="54" rx="27" fill="#ffffff" fill-opacity="0.16"/>
+    <text x="351" y="455" fill="#ffffff" text-anchor="middle">Fairness</text>
+    <rect x="452" y="420" width="180" height="54" rx="27" fill="#ffffff" fill-opacity="0.16"/>
+    <text x="542" y="455" fill="#ffffff" text-anchor="middle">Open VSX</text>
+  </g>
+</svg>

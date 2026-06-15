@@ -19,7 +19,7 @@
 
 </div>
 
----
+<div align="center"><img src="assets/divider.svg" width="70%" alt="" /></div>
 
 ## The short version
 
@@ -125,7 +125,7 @@ When I'm not building, I'm usually reading, traveling somewhere new, or lost in 
 ![Valhalla](https://img.shields.io/badge/Valhalla-1F6FEB?style=for-the-badge)
 ![OpenTripPlanner](https://img.shields.io/badge/OpenTripPlanner-2E7D32?style=for-the-badge)
 
----
+<div align="center"><img src="assets/divider.svg" width="70%" alt="" /></div>
 
 ## Featured work
 
@@ -135,28 +135,16 @@ When I'm not building, I'm usually reading, traveling somewhere new, or lost in 
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Archit1706/temporary-road-closures">
-  <img src="https://opengraph.githubassets.com/v4/Archit1706/temporary-road-closures" width="100%" alt="Temporary Road Closures API and Database" />
-</a>
-
-<b>Temporary Road Closures API &amp; Database</b><br/>
-<sub>GOOGLE SUMMER OF CODE 2025 &middot; GEOSPATIAL</sub><br/>
-Production API and database for temporary road closures, built for and adopted by the OpenStreetMap community.
-<br/><br/>
+<a href="https://github.com/Archit1706/temporary-road-closures"><img src="assets/card-roads.svg" width="100%" alt="OSM Road Closures - real-time temporary road closure reporting (Google Summer of Code 2025)" /></a>
+<br/>
 <a href="https://closures.osm.ch"><img src="https://img.shields.io/badge/Live-closures.osm.ch-2563EB?style=for-the-badge&logo=openstreetmap&logoColor=white" alt="Live" /></a>
 <a href="https://github.com/Archit1706/temporary-road-closures#readme"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Archit1706/green-pipe">
-  <img src="https://opengraph.githubassets.com/v4/Archit1706/green-pipe" width="100%" alt="GreenPipe" />
-</a>
-
-<b>GreenPipe</b><br/>
-<sub>GREEN SOFTWARE FOUNDATION &middot; GITLAB DUO</sub><br/>
-The first GitLab Duo Agent implementing GSF standards (SCI, Carbon Aware SDK, Impact Framework) with AI urgency classification and carbon-aware scheduling.
-<br/><br/>
+<a href="https://github.com/Archit1706/green-pipe"><img src="assets/card-greenpipe.svg" width="100%" alt="GreenPipe - the first GitLab Duo Agent on Green Software Foundation standards" /></a>
+<br/>
 <a href="https://github.com/Archit1706/green-pipe"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
 
 </td>
@@ -164,26 +152,15 @@ The first GitLab Duo Agent implementing GSF standards (SCI, Carbon Aware SDK, Im
 <tr>
 <td width="50%" valign="top">
 
-<img src="assets/fairlens-card.svg" width="100%" alt="FairLens - Counterfactual Fairness Audit Platform (in active development)" />
-
-<b>FairLens</b><br/>
-<sub>STARTUP &middot; FAIRNESS &middot; IN ACTIVE DEVELOPMENT</sub><br/>
-Counterfactual fairness-testing and AI audit platform mapped to LL 144, EU AI Act Article 15, and Title VII. Currently building toward launch.
-<br/><br/>
-<img src="https://img.shields.io/badge/Status-In_Active_Development-F59E0B?style=for-the-badge" alt="Status: In Active Development" />
-<a href="https://pypi.org/project/relfair/"><img src="https://img.shields.io/badge/OSS_Core-relfair-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="OSS Core: relfair" /></a>
+<a href="https://github.com/Archit1706/fair-guard"><img src="assets/card-fairguard.svg" width="100%" alt="FairGuard - agentic AI for investigative journalism (Northwestern GAIN Challenge)" /></a>
+<br/>
+<a href="https://github.com/Archit1706/fair-guard"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Archit1706/relfair">
-  <img src="https://opengraph.githubassets.com/v4/Archit1706/relfair" width="100%" alt="relfair" />
-</a>
-
-<b>relfair</b><br/>
-<sub>OPEN SOURCE &middot; PyPI</sub><br/>
-Relationship-aware counterfactual fairness testing for ML, the open-source core behind the FairLens audit platform.
-<br/><br/>
+<a href="https://github.com/Archit1706/relfair"><img src="assets/card-relfair.svg" width="100%" alt="relfair - relationship-aware counterfactual fairness testing for ML" /></a>
+<br/>
 <a href="https://pypi.org/project/relfair/"><img src="https://img.shields.io/badge/PyPI-relfair-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI" /></a>
 <a href="https://github.com/Archit1706/relfair"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
 
@@ -192,58 +169,34 @@ Relationship-aware counterfactual fairness testing for ML, the open-source core 
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Archit1706/FairLint-DL">
-  <img src="https://opengraph.githubassets.com/v4/Archit1706/FairLint-DL" width="100%" alt="FairLint-DL" />
-</a>
-
-<b>FairLint-DL</b><br/>
-<sub>VS CODE EXTENSION &middot; PUBLISHED</sub><br/>
-Lints deep-learning code for fairness and bias issues right inside the editor. Research turned into a tool engineers can install and use.
-<br/><br/>
-<a href="https://open-vsx.org/extension/fairness-tools/fairlint-dl"><img src="https://img.shields.io/badge/Install-Open_VSX-C160EF?style=for-the-badge&logo=vscodium&logoColor=white" alt="Install" /></a>
-<a href="https://github.com/Archit1706/FairLint-DL"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
+<a href="https://github.com/Archit1706/Keya-Agentic-AI-assistant-for-Real-Estate"><img src="assets/card-keya.svg" width="100%" alt="Keya - conversational real-estate assistant" /></a>
+<br/>
+<a href="https://cs532-project.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
+<a href="https://github.com/Archit1706/Keya-Agentic-AI-assistant-for-Real-Estate"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Archit1706/Keya-Agentic-AI-assistant-for-Real-Estate">
-  <img src="https://opengraph.githubassets.com/v4/Archit1706/Keya-Agentic-AI-assistant-for-Real-Estate" width="100%" alt="Real Estate AI (Keya)" />
-</a>
-
-<b>Real Estate AI &middot; Keya</b><br/>
-<sub>AGENTIC AI &middot; FULL-STACK</sub><br/>
-Conversational real-estate assistant on Next.js and FastAPI, wired to SerpAPI, Zillow, Hugging Face, and OpenAI, deployed on Google Cloud Run.
-<br/><br/>
-<a href="https://cs532-project.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
-<a href="https://github.com/Archit1706/Keya-Agentic-AI-assistant-for-Real-Estate"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
+<a href="https://github.com/Archit1706/PhishFence"><img src="assets/card-phishfence.svg" width="100%" alt="PhishFence - detects and blocks phishing domains in real time" /></a>
+<br/>
+<a href="https://phishfence.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
+<a href="https://github.com/Archit1706/PhishFence"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Archit1706/PhishFence">
-  <img src="https://opengraph.githubassets.com/v4/Archit1706/PhishFence" width="100%" alt="PhishFence" />
-</a>
-
-<b>PhishFence</b><br/>
-<sub>SECURITY &middot; MACHINE LEARNING</sub><br/>
-AI/ML system that detects and blocks phishing domains using WHOIS data, real-time URL fetching, image comparison, and typosquatting checks.
-<br/><br/>
-<a href="https://phishfence.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
-<a href="https://github.com/Archit1706/PhishFence"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
+<a href="https://github.com/Archit1706/FairLint-DL"><img src="assets/card-fairlint.svg" width="100%" alt="FairLint-DL - fairness and bias linter for deep learning, VS Code extension" /></a>
+<br/>
+<a href="https://open-vsx.org/extension/fairness-tools/fairlint-dl"><img src="https://img.shields.io/badge/Install-Open_VSX-C160EF?style=for-the-badge&logo=vscodium&logoColor=white" alt="Install" /></a>
+<a href="https://github.com/Archit1706/FairLint-DL"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Archit1706/DSAverse">
-  <img src="https://opengraph.githubassets.com/v4/Archit1706/DSAverse" width="100%" alt="DSAverse" />
-</a>
-
-<b>DSAverse</b><br/>
-<sub>EDUCATION &middot; DSA VISUALIZER</sub><br/>
-Master data structures and algorithms through animated, controllable, on-the-fly visualizations.
-<br/><br/>
+<a href="https://github.com/Archit1706/DSAverse"><img src="assets/card-dsaverse.svg" width="100%" alt="DSAverse - master data structures and algorithms visually" /></a>
+<br/>
 <a href="https://dsa-verse.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
 <a href="https://github.com/Archit1706/DSAverse"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
 
@@ -354,7 +307,7 @@ Master data structures and algorithms through animated, controllable, on-the-fly
 > [!NOTE]
 > Some deployed projects have broken backends because the paid services behind them are no longer running. The code tells the full story, and I'm happy to walk through any of it.
 
----
+<div align="center"><img src="assets/divider.svg" width="70%" alt="" /></div>
 
 ## By the numbers
 
@@ -379,7 +332,7 @@ Master data structures and algorithms through animated, controllable, on-the-fly
 
 </div>
 
----
+<div align="center"><img src="assets/divider.svg" width="70%" alt="" /></div>
 
 ## Let's connect
 
