@@ -1,272 +1,189 @@
-### 👋 Hi there! My name is [Archit Rathod](https://archit-rathod.vercel.app/)
+<div align="center">
 
--   🧑🏻‍🎓 **MS CS Student** at **University of Illinois Chicago**
--   📚 **Learner**
--   💻 **Software Engineer | Full Stack Developer**
--   🔍 **Researcher**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=220&section=header&text=Archit%20Rathod&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%7C%20Full-Stack%20%7C%20ML%20%26%20Responsible%20AI%20Researcher&descSize=18&descAlignY=56&animation=fadeIn" alt="Archit Rathod" width="100%" />
 
-### About
+### I build scalable, cloud-native systems, and I make sure they're fair.
 
-🚀 Exploring Machine Learning and building scalable cloud-native systems and data pipelines 💻. Proficient in Python, TypeScript, and C++ 🐍. Focused on Responsible AI and algorithmic fairness. Hardworking, disciplined, and consistent in my work ethic. 📚 Love reading books and enjoy learning new things daily. ✈️ Passionate about traveling to new places and meeting new people, despite being an introvert. Easy to talk to! In my free time, I delve into quantitative finance, investing, and solving logic puzzles. That's me! 😄
+**MS Computer Science @ University of Illinois Chicago** &nbsp;·&nbsp; **Google Summer of Code 2025** &nbsp;·&nbsp; **Research Assistant, UIC Urban Transportation Center**
 
-### Skills
+<br/>
 
--   **Scripts / Languages** : <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
-            alt="html5"
-            width="40"
-            height="40"
-            title="HTML"
-        />
-    </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img
-              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-              alt="javascript"
-              width="40"
-              height="40"
-              title="Javascript"
-          />
-    </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img
-              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-              alt="typescript"
-              width="40"
-              height="40"
-              title="Typescript"
-          />
-    </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img
-              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-              alt="cplusplus"
-              width="40"
-              height="40"
-              title="C++"
-          />
-    </a> <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img
-              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-              alt="python"
-              width="40"
-              height="40"
-              title="Python"
-          />
-    </a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-archit--rathod.vercel.app-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://archit-rathod.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/archit-rathod)
+[![Email](https://img.shields.io/badge/Email-Reach_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arath21@uic.edu)
+[![X](https://img.shields.io/badge/X-@ArchitRathod__17-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ArchitRathod_17)
 
--   **Libraries** : <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img
-              src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/numpy/numpy-original.svg"
-              alt="numpy"
-              width="40"
-              height="40"
-              title="Numpy"
-            />
-    </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img
-              src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/pandas/pandas-original.svg"
-              alt="pandas"
-              width="40"
-              height="40"
-              title="Pandas"
-            />
-    </a> <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img
-              src="https://archit-rathod.vercel.app/assets/skills/matplotlib.png"
-              alt="matplotlib"
-              width="45"
-              height="45"
-              title="Matplotlib"
-            />
-    </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img
-              src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/opencv/opencv-original.svg"
-              alt="opencv"
-              width="40"
-              height="40"
-              title="OpenCV"
-            />
-    </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img
-              src="https://archit-rathod.vercel.app/assets/skills/sklearn.png"
-              alt="scikit-learn"
-              width="45"
-              height="45"
-              title="SkLearn"
-            />
-    </a> <a href="https://plotly.com/" target="_blank" rel="noreferrer">
-    <img
-              src="https://archit-rathod.vercel.app/assets/skills/plotly.png"
-              alt="plotly"
-              width="50"
-              height="50"
-              title="Plotly"
-            />
-    </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img
-              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg"
-              alt="pytorch"
-              width="40"
-              height="40"
-              title="PyTorch"
-            />
-    </a>
+<br/>
 
--   **Tools / Frameworks** : <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
-    <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
-            alt="nodejs"
-            width="40"
-            height="40"
-            title="Node.js"
-          />
-    </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
-            alt="react"
-            width="40"
-            height="40"
-            title="React.js"
-        />
-    </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img
-            src="https://media.trustradius.com/product-logos/ZP/8H/WIK1JS3WX1T6-180x180.PNG"
-            alt="nextjs"
-            width="40"
-            height="40"
-            style="background-color: 'white'; padding: '2px'"
-            title="Next.js"
-    />
-    </a> <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg"
-            alt="fastapi"
-            width="40"
-            height="40"
-            title="FastAPI"
-        />
-    </a> <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img
-            src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-            alt="postman"
-            width="40"
-            height="40"
-            title="Postman"
-        />
-    </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img
-            src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-            alt="tailwind"
-            width="40"
-            height="40"
-            title="Tailwind CSS"
-        />
-    </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img
-            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-            alt="git"
-            width="40"
-            height="40"
-            title="Git"
-        />
-    </a> <a href="https://github.com/Archit1706" target="_blank" rel="noreferrer">
-    <img
-            src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
-            alt="github"
-            width="40"
-            height="40"
-            style="background-color: 'white'; padding: '2px'"
-            title="GitHub"
-        />
-    </a>
+![Open to 2026 roles](https://img.shields.io/badge/Open_to-Software_Engineering_·_AI%2FML_·_Full--Stack_roles_(2026)-16A34A?style=for-the-badge)
 
--   **Devops** : <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
-            alt="docker"
-            width="40"
-            height="40"
-            title="Docker"
-        />
-    </a> <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-            alt="aws"
-            width="40"
-            height="40"
-            title="AWS"
-        />
-    </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img
-            src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
-            alt="gcp"
-            width="40"
-            height="40"
-            title="Google Cloud"
-        />
-    </a> <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-    <img
-            src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png"
-            alt="vercel"
-            width="40"
-            height="40"
-            title="Vercel"
-        />
-    </a>
+</div>
 
--   **Databases** : <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-            alt="mysql"
-            width="40"
-            height="40"
-            title="MySQL"
-        />
-    </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
-            alt="mongodb"
-            width="40"
-            height="40"
-            title="MongoDB"
-        />
-    </a> <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
-            alt="postgresql"
-            width="40"
-            height="40"
-            title="PostgreSQL"
-        />
-    </a> <a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer">
-    <img
-            src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg"
-            alt="gcp-bigquery"
-            width="40"
-            height="40"
-            title="Big Query"
-        />
-    </a> <a href="https://neo4j.com/" target="_blank" rel="noreferrer">
-    <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg"
-            alt="neo4j"
-            width="55"
-            height="55"
-            title="Neo4j"
-        />
-    </a>
+---
 
-### Status
+## The short version
 
--   🗺️ I am currently a Research Assistant at the Urban Transportation Center at UIC.
--   🏆 I successfully completed Google Summer of Code 2025, building a Temporary Road Closures API and Database for OpenStreetMap.
--   🔭 I have engineered data pipelines for large-scale behavioral simulations and researched mitigating misinformation on YouTube.
--   🌱 I’m currently focused on ML fairness debugging, causal analysis, and building full-stack microservices!
--   💼 **I am actively looking for full-time Software Engineering, AI/ML, or Full-Stack roles starting in 2026!**
--   📫 How to reach me: Click [Here](https://www.archit-rathod.vercel.app/#contact)
+I'm a software engineer and researcher drawn to problems that sit at the intersection of **scale** and **responsibility**.
 
-### Projects
+Over the past few years I've shipped a **Google Summer of Code API now used by the OpenStreetMap community**, built the **first GitLab Duo Agent implementing Green Software Foundation standards**, engineered **data pipelines for large-scale behavioral simulations**, and researched how to **debug fairness in machine-learning models** and **mitigate misinformation on YouTube**. I move comfortably across the whole stack, from React/Next.js front-ends to FastAPI services, cloud infrastructure, and the ML models in between.
 
--   Open Source Project <img src="https://i.giphy.com/media/FNqoTH4S3ZBheBVYlN/giphy.webp" alt="New gif" width="45" height="30">
+My focus right now: **Responsible AI, algorithmic fairness, geospatial data systems, and full-stack microservices.** I care about systems that are not just fast and scalable, but accountable.
+
+When I'm not building, I'm usually reading, traveling somewhere new, or lost in a logic puzzle or a quant-finance rabbit hole. An introvert who's genuinely easy to talk to, so say hi.
+
+> **I'm actively looking for full-time Software Engineering, AI/ML, and Full-Stack roles starting in 2026.** &nbsp; [Let's talk](https://www.archit-rathod.vercel.app/#contact)
+
+---
+
+## What I'm working on now
+
+- **Research Assistant** at the **Urban Transportation Center, UIC**, building data systems for urban mobility research.
+- **Completed Google Summer of Code 2025**, a Temporary Road Closures API and Database for OpenStreetMap.
+- **Engineering data pipelines** for large-scale behavioral simulations, and researching misinformation mitigation on YouTube.
+- **Currently focused on** ML fairness debugging, causal analysis, geospatial systems, and full-stack microservices.
+
+---
+
+## Tech I work with
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+**Machine Learning & Data**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white)
+![LLM Agents](https://img.shields.io/badge/LLM_Agents-6E56CF?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-6E56CF?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6E56CF?style=for-the-badge)
+![Fine-Tuning](https://img.shields.io/badge/Fine--Tuning-6E56CF?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![ETL Pipelines](https://img.shields.io/badge/ETL_Pipelines-4B5563?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+
+**Frameworks & Tools**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![NetworkX](https://img.shields.io/badge/NetworkX-2C5BB4?style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions_(CI%2FCD)-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Monitoring](https://img.shields.io/badge/Monitoring-3B4252?style=for-the-badge)
+![System Design](https://img.shields.io/badge/System_Design-3B4252?style=for-the-badge)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Parquet](https://img.shields.io/badge/Parquet-50ABF1?style=for-the-badge&logo=apacheparquet&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+**Geospatial**
+
+![PostGIS](https://img.shields.io/badge/PostGIS-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![OSMnx](https://img.shields.io/badge/OSMnx-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge&logo=geopandas&logoColor=white)
+![Shapely](https://img.shields.io/badge/Shapely-2E7D32?style=for-the-badge)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
+![MapLibre GL](https://img.shields.io/badge/MapLibre_GL-396CB2?style=for-the-badge&logo=maplibre&logoColor=white)
+![OpenLR](https://img.shields.io/badge/OpenLR-0F766E?style=for-the-badge)
+![Valhalla](https://img.shields.io/badge/Valhalla-1F6FEB?style=for-the-badge)
+![OpenTripPlanner](https://img.shields.io/badge/OpenTripPlanner-2E7D32?style=for-the-badge)
+
+---
+
+## Featured work
+
+> A highlight reel. The complete archive of 40+ projects across AI/ML, web, Python, and Java is in the collapsible sections below.
+
+### Temporary Road Closures API & Database &nbsp; `Google Summer of Code 2025`
+A production-grade API and database for managing temporary road closures, built for and adopted by the **OpenStreetMap** community.
+
+`FastAPI` `PostgreSQL / PostGIS` `OpenLR` `Geospatial`
+
+[![Live](https://img.shields.io/badge/Live-closures.osm.ch-2563EB?style=flat-square&logo=openstreetmap&logoColor=white)](https://closures.osm.ch)
+[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/temporary-road-closures#readme)
+
+### GreenPipe &nbsp; `Green Software Foundation`
+The first **GitLab Duo Agent** to implement **Green Software Foundation** standards (SCI, Carbon Aware SDK, Impact Framework), with AI-powered urgency classification and carbon-aware scheduling.
+
+`GitLab Duo` `SCI` `Carbon Aware SDK` `Impact Framework` `AI Classification`
+
+[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/green-pipe)
+
+### FairLint-DL &nbsp; `VS Code Extension · Published`
+A developer tool that lints deep-learning code for **fairness and bias issues** right inside the editor. Research turned into something engineers can actually install and use.
+
+[![Marketplace](https://img.shields.io/badge/Open_VSX-Install-C160EF?style=flat-square&logo=vscodium&logoColor=white)](https://open-vsx.org/extension/fairness-tools/fairlint-dl)
+[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/FairLint-DL)
+
+### Real Estate AI
+An AI-powered real-estate assistant that pulls live listing data and turns it into conversational insight. **Next.js + FastAPI**, wired to SerpAPI, the Zillow API, Hugging Face, and OpenAI, deployed on Google Cloud Run.
+
+`Next.js` `Tailwind` `FastAPI` `Google Cloud Run` `Hugging Face` `OpenAI`
+
+[![Live](https://img.shields.io/badge/Live-Demo-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://cs532-project.vercel.app/)
+[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/cs532-project)
+
+### PhishFence
+A phishing-detection system that combines a **browser extension, ML models, and web intelligence** to flag malicious sites in real time.
+
+`Next.js` `FastAPI` `Chrome Extension` `Selenium` `LightGBM` `Transformers` `OpenAI`
+
+[![Live](https://img.shields.io/badge/Live-Demo-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://phishfence.vercel.app/)
+[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/PhishFence)
+
+### Multi-Document Agent
+A retrieval-augmented agent that reasons across **multiple documents at once**, built on LlamaIndex and OpenAI with a clean Next.js front-end.
+
+`Next.js` `FastAPI` `LlamaIndex` `OpenAI` `RAG`
+
+[![Live](https://img.shields.io/badge/Live-Demo-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://multi-doc-agent.vercel.app/)
+[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/multi-doc-agent)
+
+---
+
+## The full archive
+
+<details>
+<summary><b>Open Source</b></summary>
+
+<br/>
 
 | Web / App                                |                 Demo                  |                              Contribute                              |
 | ---------------------------------------- | :-----------------------------------: | :------------------------------------------------------------------: |
@@ -276,9 +193,12 @@
 | DSAverse                                 | [link](https://dsa-verse.vercel.app/) |            [link](https://github.com/Archit1706/DSAverse)            |
 | DSA-30                                   |   [link](https://dsa30.vercel.app/)   |         [link](https://github.com/Archit1706/DSA-30/#readme)         |
 
+</details>
 
+<details>
+<summary><b>AI / ML Web Apps</b></summary>
 
--   AI ML Based - Web Projects
+<br/>
 
 | Web App              | Front End             | Back End (Server / Database)                  | ML (Model / Dataset / Library)                              |                    Live Demo                    |                           Repo                           |
 | -------------------- | --------------------- | --------------------------------------------- | ----------------------------------------------------------- | :-----------------------------------------------: | :-----------------------------------------------------: |
@@ -294,7 +214,12 @@
 | The One Finder       | Next.js, Tailwind CSS | MongoDB, Fast API, Node.js                    | Recommender                                                 |    [link](https://the-one-finder.vercel.app/)     |  [link](https://github.com/Archit1706/The-One-Finder)   |
 | Social Vision        | Next.js, Tailwind CSS | MongoDB, Fast API                             | Recommender, WordCloud, Sentiment Analysis, Twitter Dataset | [link](https://network-analysis-weld.vercel.app/) |   [link](https://github.com/Archit1706/SocialVision)    |
 
--   Web Projects
+</details>
+
+<details>
+<summary><b>Web Projects</b></summary>
+
+<br/>
 
 | Web App                 | Front End                              | Back End                              |                           Live Demo                           |                                 Repo                                 |
 | ----------------------- | -------------------------------------- | ------------------------------------- | :----------------------------------------------------------: | :---------------------------------------------------------------------: |
@@ -317,7 +242,12 @@
 | Random Quote Generator  | HTML, CSS, JS                          | -                                     | [link](https://archit1706.github.io/Random-Quote-Generator/) |      [link](https://github.com/Archit1706/Random-Quote-Generator)       |
 | Simple Calculator       | HTML, CSS, JS, jQuery                  | -                                     |   [link](https://archit1706.github.io/Simple-Calculator/)    |         [link](https://github.com/Archit1706/Simple-Calculator)         |
 
--   Python Projects
+</details>
+
+<details>
+<summary><b>Python Projects</b></summary>
+
+<br/>
 
 | Python App               | Concept / Libraries Used |                                Demo                                |                                Repo                                |
 | ------------------------ | ------------------------ | :----------------------------------------------------------------: | :--------------------------------------------------------------------: |
@@ -333,36 +263,63 @@
 | NATO Alphabet Generator  | Pandas                   |                                 -                                  |      [link](https://github.com/Archit1706/NATO-Phonetics-Generator)      |
 | Hirst Painting           | Tkinter                  |      [link](https://replit.com/@ArchitRathod1/Hirst-Painting)      |          [link](https://github.com/Archit1706/Hirst-Painting)          |
 
--   Java Project
+</details>
+
+<details>
+<summary><b>Java Project</b></summary>
+
+<br/>
 
 | Desktop App                | Concept / Libraries Used |                                        Repo                                        |
 | -------------------------- | ------------------------ | :--------------------------------------------------------------------------------: |
 | Electricity Billing System | Java Swing               | [link](https://github.com/Archit1706/Electricity-Billing-System-Mini-Project-Sem3) |
 
-> [!NOTE]  
-> Some deployed projects have broken backends due to paid backend services 🥺
+</details>
 
-### Github Stats
+> [!NOTE]
+> Some deployed projects have broken backends because the paid services behind them are no longer running. The code tells the full story, and I'm happy to walk through any of it.
 
-|                                                                              Most Languages Used                                                                               |                                          GitHub Stats                                          |
-| :-------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Archit1706)](https://github.com/anuraghazra/github-readme-stats) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Archit1706&show_icons=true) |
+---
 
-|                                                   Streak Tracker                                                    |
-| :-----------------------------------------------------------------------------------------------------------------: |
-| ![Profile Views](https://github-readme-streak-stats.herokuapp.com/?user=Archit1706&theme=radical&hide_border=false) |
+## By the numbers
 
-### Contact Me
+<div align="center">
 
-<a href="https://www.linkedin.com/in/archit-rathod">
-  <img align="left" alt="Archit's LinkedIN" width="22px" src="assets/linkedin.svg" />
+<a href="https://github.com/Archit1706">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Archit1706&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Archit's GitHub stats" />
 </a>
-<a href="mailto:arath21@uic.edu">
-  <img align="left" alt="Archit's Mail" width="22px" src="assets/mail.svg" />
+<a href="https://github.com/Archit1706">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archit1706&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 </a>
-<a href="https://discordapp.com/users/795287895681925151/">
-  <img align="left" alt="Archit's Discord" width="22px" src="assets/discord.svg" />
+
+<br/>
+
+<a href="https://github.com/Archit1706">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Archit1706&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </a>
-<a href="https://twitter.com/ArchitRathod_17">
-  <img align="left" alt="Archit Rathod | Twitter" width="22px" src="assets/twitter.svg" />
-</a>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Archit1706&theme=react-dark&hide_border=true&area=true" alt="Contribution activity graph" />
+
+</div>
+
+---
+
+## Let's connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://archit-rathod.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/archit-rathod)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arath21@uic.edu)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ArchitRathod_17)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/795287895681925151/)
+
+<br/>
+
+**Open to Software Engineering, AI/ML, and Full-Stack roles starting 2026. Let's build something that matters.**
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2563EB&height=120&section=footer" alt="" width="100%" />
