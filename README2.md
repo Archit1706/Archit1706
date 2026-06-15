@@ -48,7 +48,7 @@ When I'm not building, I'm usually reading, traveling somewhere new, or lost in 
 ## Tech I work with
 
 <div align="center">
-  <img src="assets/skills-marquee.svg" width="100%" alt="Animated tech stack flowing across lanes: languages, ML and AI, data, cloud, and geospatial" />
+  <img src="assets/skills-galaxy.svg" width="92%" alt="Tech galaxy: language, ML, framework, cloud and data icons orbiting a glowing core" />
 </div>
 
 <details>
