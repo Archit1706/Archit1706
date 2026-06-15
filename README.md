@@ -209,6 +209,17 @@ When I'm not building, I'm usually reading, traveling somewhere new, or lost in 
 ## The full archive
 
 <details>
+<summary><b>AI Agents and Skills</b></summary>
+
+<br/>
+
+| Agent / Skill Set | What it is                                                                                                                                                                | Repo                                                |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------: |
+| FairGuard         | Reusable Claude Code Agent Skills for investigative journalism, plus findings on 1M+ federal lobbying records and congressional press releases (2022-Q1 2026). Northwestern GAIN Challenge. | [link](https://github.com/Archit1706/fair-guard) |
+
+</details>
+
+<details>
 <summary><b>Open Source</b></summary>
 
 <br/>
