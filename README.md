@@ -24,6 +24,10 @@
 
 ## The short version
 
+<table>
+<tr>
+<td width="64%" valign="top">
+
 I'm a software engineer and researcher drawn to problems that sit at the intersection of **scale** and **responsibility**.
 
 Over the past few years I've shipped a **Google Summer of Code API now used by the OpenStreetMap community**, built the **first GitLab Duo Agent implementing Green Software Foundation standards**, engineered **data pipelines for large-scale behavioral simulations**, and researched how to **debug fairness in machine-learning models** and **mitigate misinformation on YouTube**. I move comfortably across the whole stack, from React/Next.js front-ends to FastAPI services, cloud infrastructure, and the ML models in between.
@@ -31,6 +35,17 @@ Over the past few years I've shipped a **Google Summer of Code API now used by t
 My focus right now: **Responsible AI, algorithmic fairness, geospatial data systems, and full-stack microservices.** I care about systems that are not just fast and scalable, but accountable.
 
 When I'm not building, I'm usually reading, traveling somewhere new, or lost in a logic puzzle or a quant-finance rabbit hole. An introvert who's genuinely easy to talk to, so say hi.
+
+</td>
+<td width="36%" valign="top">
+
+<video src="https://raw.githubusercontent.com/Archit1706/Archit1706/main/assets/intro-video.mp4" controls muted playsinline width="100%"></video>
+
+<div align="center"><sub>&#9654;&nbsp;<a href="https://github.com/Archit1706/Archit1706/raw/main/assets/intro-video.mp4">Watch my intro</a></sub></div>
+
+</td>
+</tr>
+</table>
 
 > **I'm actively looking for full-time Software Engineering, AI/ML, and Full-Stack roles starting in 2026.** &nbsp; [Let's talk](https://www.archit-rathod.vercel.app/#contact)
 
