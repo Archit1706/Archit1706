@@ -179,7 +179,7 @@ When I'm not building, I'm usually reading, traveling somewhere new, or lost in 
 
 <a href="https://github.com/Archit1706/PhishFence"><img src="assets/card-phishfence.svg" width="100%" alt="PhishFence - detects and blocks phishing domains in real time" /></a>
 <br/>
-<a href="https://phishfence.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
+<a href="https://phish-fence.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
 <a href="https://github.com/Archit1706/PhishFence"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
 
 </td>
@@ -245,7 +245,7 @@ When I'm not building, I'm usually reading, traveling somewhere new, or lost in 
 | Multi Document Agent | Next.js, Tailwind CSS | Fast API                                      | Llama Index, OpenAI                                         |    [link](https://multi-doc-agent.vercel.app/)    |  [link](https://github.com/Archit1706/multi-doc-agent)  |
 | FitSphere            | Next.js, Tailwind CSS | Fast API, MongoDB, Node.js                    | OpenCV, OpenAI                                              |        [link](https://fitsphere.vercel.app/)        |      [link](https://github.com/Archit1706/FitSphere)      |
 | Ascend AI            | Next.js, Tailwind CSS | Fast API, MongoDB                             | OpenCV, Transformers, OpenAI, Librosa                       |      [link](https://ascend-ai-mpr.vercel.app/)      |      [link](https://github.com/Archit1706/AscendAI)       |
-| PhishiFence          | Next.js, Tailwind CSS | Fast API, WhoisDB, Chrome Extension, Selenium | OpenCV, Transformers, OpenAI, LightGBM                      |       [link](https://phishfence.vercel.app/)        |    [link](https://github.com/Archit1706/PhishFence)     |
+| PhishiFence          | Next.js, Tailwind CSS | Fast API, WhoisDB, Chrome Extension, Selenium | OpenCV, Transformers, OpenAI, LightGBM                      |       [link](https://phish-fence.vercel.app/)        |    [link](https://github.com/Archit1706/PhishFence)     |
 | SwarBhaav            | Next.js, Tailwind CSS | MongoDB, Fast API, Node.js                    | Librosa, Transformers, OpenAI                               |        [link](https://swarbhaav.vercel.app/)        |      [link](https://github.com/Archit1706/SwarBhaav)      |
 | Attire AI            | Next.js, Tailwind CSS | Flask                                         | Langchain, Stable Diffusion, NLTK, Llama                    |        [link](https://attire-ai.vercel.app/)        |      [link](https://github.com/Archit1706/Attire-AI)      |
 | Reflections          | Next.js, Tailwind CSS | MongoDB, Fast API, Prisma                     | BERT, NLP, Recommender, Summarizer                          |   [link](https://reflections-blog.vercel.app/)    | [link](https://github.com/Archit1706/Reflections-Blogs) |
