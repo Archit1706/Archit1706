@@ -129,52 +129,128 @@ When I'm not building, I'm usually reading, traveling somewhere new, or lost in 
 
 ## Featured work
 
-> A highlight reel. The complete archive of 40+ projects across AI/ML, web, Python, and Java is in the collapsible sections below.
+> A highlight reel. The full archive of 40+ projects across AI/ML, web, Python, and Java is in the collapsible sections below.
 
-### Temporary Road Closures API & Database &nbsp; `Google Summer of Code 2025`
-A production-grade API and database for managing temporary road closures, built for and adopted by the **OpenStreetMap** community.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-`FastAPI` `PostgreSQL / PostGIS` `OpenLR` `Geospatial`
+<a href="https://github.com/Archit1706/temporary-road-closures">
+  <img src="https://opengraph.githubassets.com/v4/Archit1706/temporary-road-closures" width="100%" alt="Temporary Road Closures API and Database" />
+</a>
 
-[![Live](https://img.shields.io/badge/Live-closures.osm.ch-2563EB?style=flat-square&logo=openstreetmap&logoColor=white)](https://closures.osm.ch)
-[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/temporary-road-closures#readme)
+<b>Temporary Road Closures API &amp; Database</b><br/>
+<sub>GOOGLE SUMMER OF CODE 2025 &middot; GEOSPATIAL</sub><br/>
+Production API and database for temporary road closures, built for and adopted by the OpenStreetMap community.
+<br/><br/>
+<a href="https://closures.osm.ch"><img src="https://img.shields.io/badge/Live-closures.osm.ch-2563EB?style=for-the-badge&logo=openstreetmap&logoColor=white" alt="Live" /></a>
+<a href="https://github.com/Archit1706/temporary-road-closures#readme"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
 
-### GreenPipe &nbsp; `Green Software Foundation`
-The first **GitLab Duo Agent** to implement **Green Software Foundation** standards (SCI, Carbon Aware SDK, Impact Framework), with AI-powered urgency classification and carbon-aware scheduling.
+</td>
+<td width="50%" valign="top">
 
-`GitLab Duo` `SCI` `Carbon Aware SDK` `Impact Framework` `AI Classification`
+<a href="https://github.com/Archit1706/green-pipe">
+  <img src="https://opengraph.githubassets.com/v4/Archit1706/green-pipe" width="100%" alt="GreenPipe" />
+</a>
 
-[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/green-pipe)
+<b>GreenPipe</b><br/>
+<sub>GREEN SOFTWARE FOUNDATION &middot; GITLAB DUO</sub><br/>
+The first GitLab Duo Agent implementing GSF standards (SCI, Carbon Aware SDK, Impact Framework) with AI urgency classification and carbon-aware scheduling.
+<br/><br/>
+<a href="https://github.com/Archit1706/green-pipe"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
 
-### FairLint-DL &nbsp; `VS Code Extension · Published`
-A developer tool that lints deep-learning code for **fairness and bias issues** right inside the editor. Research turned into something engineers can actually install and use.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-[![Marketplace](https://img.shields.io/badge/Open_VSX-Install-C160EF?style=flat-square&logo=vscodium&logoColor=white)](https://open-vsx.org/extension/fairness-tools/fairlint-dl)
-[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/FairLint-DL)
+<a href="https://github.com/Archit1706/fairlens">
+  <img src="https://opengraph.githubassets.com/v4/Archit1706/fairlens" width="100%" alt="FairLens" />
+</a>
 
-### Real Estate AI
-An AI-powered real-estate assistant that pulls live listing data and turns it into conversational insight. **Next.js + FastAPI**, wired to SerpAPI, the Zillow API, Hugging Face, and OpenAI, deployed on Google Cloud Run.
+<b>FairLens</b><br/>
+<sub>FAIRNESS &middot; AI AUDIT PLATFORM</sub><br/>
+Counterfactual fairness-testing and AI audit platform mapped to LL 144, EU AI Act Article 15, and Title VII. Relationship-aware counterfactuals detect 3-4x more discrimination than naive flip testing.
+<br/><br/>
+<a href="https://github.com/Archit1706/fairlens"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
 
-`Next.js` `Tailwind` `FastAPI` `Google Cloud Run` `Hugging Face` `OpenAI`
+</td>
+<td width="50%" valign="top">
 
-[![Live](https://img.shields.io/badge/Live-Demo-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://cs532-project.vercel.app/)
-[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/cs532-project)
+<a href="https://github.com/Archit1706/relfair">
+  <img src="https://opengraph.githubassets.com/v4/Archit1706/relfair" width="100%" alt="relfair" />
+</a>
 
-### PhishFence
-A phishing-detection system that combines a **browser extension, ML models, and web intelligence** to flag malicious sites in real time.
+<b>relfair</b><br/>
+<sub>OPEN SOURCE &middot; PyPI</sub><br/>
+Relationship-aware counterfactual fairness testing for ML, the open-source core behind the FairLens audit platform.
+<br/><br/>
+<a href="https://pypi.org/project/relfair/"><img src="https://img.shields.io/badge/PyPI-relfair-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI" /></a>
+<a href="https://github.com/Archit1706/relfair"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
 
-`Next.js` `FastAPI` `Chrome Extension` `Selenium` `LightGBM` `Transformers` `OpenAI`
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-[![Live](https://img.shields.io/badge/Live-Demo-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://phishfence.vercel.app/)
-[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/PhishFence)
+<a href="https://github.com/Archit1706/FairLint-DL">
+  <img src="https://opengraph.githubassets.com/v4/Archit1706/FairLint-DL" width="100%" alt="FairLint-DL" />
+</a>
 
-### Multi-Document Agent
-A retrieval-augmented agent that reasons across **multiple documents at once**, built on LlamaIndex and OpenAI with a clean Next.js front-end.
+<b>FairLint-DL</b><br/>
+<sub>VS CODE EXTENSION &middot; PUBLISHED</sub><br/>
+Lints deep-learning code for fairness and bias issues right inside the editor. Research turned into a tool engineers can install and use.
+<br/><br/>
+<a href="https://open-vsx.org/extension/fairness-tools/fairlint-dl"><img src="https://img.shields.io/badge/Install-Open_VSX-C160EF?style=for-the-badge&logo=vscodium&logoColor=white" alt="Install" /></a>
+<a href="https://github.com/Archit1706/FairLint-DL"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
 
-`Next.js` `FastAPI` `LlamaIndex` `OpenAI` `RAG`
+</td>
+<td width="50%" valign="top">
 
-[![Live](https://img.shields.io/badge/Live-Demo-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://multi-doc-agent.vercel.app/)
-[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/multi-doc-agent)
+<a href="https://github.com/Archit1706/Keya-Agentic-AI-assistant-for-Real-Estate">
+  <img src="https://opengraph.githubassets.com/v4/Archit1706/Keya-Agentic-AI-assistant-for-Real-Estate" width="100%" alt="Real Estate AI (Keya)" />
+</a>
+
+<b>Real Estate AI &middot; Keya</b><br/>
+<sub>AGENTIC AI &middot; FULL-STACK</sub><br/>
+Conversational real-estate assistant on Next.js and FastAPI, wired to SerpAPI, Zillow, Hugging Face, and OpenAI, deployed on Google Cloud Run.
+<br/><br/>
+<a href="https://cs532-project.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
+<a href="https://github.com/Archit1706/Keya-Agentic-AI-assistant-for-Real-Estate"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Archit1706/PhishFence">
+  <img src="https://opengraph.githubassets.com/v4/Archit1706/PhishFence" width="100%" alt="PhishFence" />
+</a>
+
+<b>PhishFence</b><br/>
+<sub>SECURITY &middot; MACHINE LEARNING</sub><br/>
+AI/ML system that detects and blocks phishing domains using WHOIS data, real-time URL fetching, image comparison, and typosquatting checks.
+<br/><br/>
+<a href="https://phishfence.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
+<a href="https://github.com/Archit1706/PhishFence"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Archit1706/DSAverse">
+  <img src="https://opengraph.githubassets.com/v4/Archit1706/DSAverse" width="100%" alt="DSAverse" />
+</a>
+
+<b>DSAverse</b><br/>
+<sub>EDUCATION &middot; DSA VISUALIZER</sub><br/>
+Master data structures and algorithms through animated, controllable, on-the-fly visualizations.
+<br/><br/>
+<a href="https://dsa-verse.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
+<a href="https://github.com/Archit1706/DSAverse"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
+
+</td>
+</tr>
+</table>
 
 ---
 
