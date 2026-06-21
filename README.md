@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-archit--rathod.vercel.app-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://archit-rathod.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-architr.vercel.app-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://architr.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/archit-rathod)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Research-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=dgd_6_8AAAAJ&hl=en)
 [![Email](https://img.shields.io/badge/Email-Reach_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arath21@uic.edu)
@@ -52,7 +52,7 @@ _When I'm not building, I'm reading, traveling somewhere new, or lost in a logic
 </tr>
 </table>
 
-> **I'm actively looking for full-time Software Engineering, AI/ML, and Full-Stack roles starting in 2026.** &nbsp; [Let's talk](https://www.archit-rathod.vercel.app/#contact)
+> **I'm actively looking for full-time Software Engineering, AI/ML, and Full-Stack roles starting in 2026.** &nbsp; [Let's talk](https://architr.vercel.app/#contact)
 
 ---
 
@@ -381,7 +381,7 @@ _When I'm not building, I'm reading, traveling somewhere new, or lost in a logic
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://archit-rathod.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://architr.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/archit-rathod)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=dgd_6_8AAAAJ&hl=en)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arath21@uic.edu)
