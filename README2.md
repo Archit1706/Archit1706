@@ -35,7 +35,7 @@ Over the past few years I've:
 &nbsp;&nbsp;**▸ Shipped** a Google Summer of Code API now used by the **OpenStreetMap** community<br/>
 &nbsp;&nbsp;**▸ Built** the first **GitLab Duo Agent** implementing Green Software Foundation standards<br/>
 &nbsp;&nbsp;**▸ Engineered** data pipelines for large-scale behavioral simulations<br/>
-&nbsp;&nbsp;**▸ Researched** fairness debugging in ML models and misinformation mitigation on YouTube
+&nbsp;&nbsp;**▸ Published** 9 papers across software engineering, ML fairness, and AI safety (ASE 2026, a NeurIPS 2023 workshop, Springer)
 
 I move comfortably across the whole stack, from React/Next.js front-ends to FastAPI services, cloud infrastructure, and the ML models in between.
 
@@ -58,10 +58,10 @@ _When I'm not building, I'm reading, traveling somewhere new, or lost in a logic
 
 ## What I'm working on now
 
-- **Research Assistant** at the **Urban Transportation Center, UIC**, building data systems for urban mobility research.
-- **Completed Google Summer of Code 2025**, a Temporary Road Closures API and Database for OpenStreetMap.
-- **Engineering data pipelines** for large-scale behavioral simulations, and researching misinformation mitigation on YouTube.
-- **Currently focused on** ML fairness debugging, causal analysis, geospatial systems, and full-stack microservices.
+- **Research Assistant** at UIC's **Urban Transportation Center**, building **Freight Toolkit**, a regional freight analytics dashboard spanning 285+ Chicago municipalities (FTA FERSC initiative).
+- **Completed Google Summer of Code 2025**: a Temporary Road Closures API and database adopted by the OpenStreetMap Foundation.
+- **Shipping production ML systems**: MLOps serving with drift-gated retraining (GalaxyServe), a Kubernetes GitOps platform (GalaxyOps), and a Dagster transit lakehouse (TransitLake).
+- **Researching** responsible AI and algorithmic fairness, with a fairness-debugging tool accepted at **ASE 2026**.
 
 ---
 
@@ -248,6 +248,45 @@ _When I'm not building, I'm reading, traveling somewhere new, or lost in a logic
 | Agent / Skill Set | What it is                                                                                                                                                                | Repo                                                |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------: |
 | FairGuard         | Reusable Claude Code Agent Skills for investigative journalism, plus findings on 1M+ federal lobbying records and congressional press releases (2022-Q1 2026). Northwestern GAIN Challenge. | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/fair-guard) |
+| Lattice           | AI-native venture-intelligence platform: a multi-agent LangGraph and Neo4j institutional-memory layer that extracts relationship graphs and semantic memory for VC firms. | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/lattice-ai) |
+
+</details>
+
+<details>
+<summary><b>Engineering and Platforms (MLOps · DevOps · Data)</b> &nbsp;<img src="assets/chevron.svg" width="18" alt="expand" /></summary>
+
+<br/>
+
+| Project | What it is | Stack | Links |
+| ------- | ---------- | ----- | :---: |
+| **GalaxyServe** | Production MLOps loop for a galaxy classifier: FastAPI serving, MLflow registry, Evidently drift detection, Prometheus/Grafana, and CI-gated champion/challenger retraining. | PyTorch, FastAPI, MLflow, Evidently | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/galaxy-serve) |
+| **GalaxyOps** | Production-grade Kubernetes platform: Terraform + Helm + ArgoCD GitOps with kube-prometheus-stack, HPA autoscaling, chaos testing, and a 99.9% availability SLO. | Kubernetes, Terraform, Helm, ArgoCD | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/galaxy-ops) |
+| **TransitLake** | Dagster medallion lakehouse for Chicago transit: GTFS, real-time vehicle positions, congestion, and weather into dbt models on DuckDB with 100+ data-quality checks. | Dagster, dbt, DuckDB, Great Expectations | [![Live](https://img.shields.io/badge/Live-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://transitlake.vercel.app) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/transit-lake) |
+| **CryptoNorm** | Real-time crypto market-data normalizer and P&L/risk dashboard: async multi-exchange WebSocket ingestion normalized through Kafka with a Redis state cache. | Python asyncio, Kafka, Redis, FastAPI | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/CryptoNorm) |
+
+</details>
+
+<details>
+<summary><b>Urban Analytics and Geospatial</b> &nbsp;<img src="assets/chevron.svg" width="18" alt="expand" /></summary>
+
+<br/>
+
+| Project | What it is | Stack | Links |
+| ------- | ---------- | ----- | :---: |
+| **Freight Toolkit** | CMAP regional freight analytics dashboard across 285+ Chicago municipalities (truck traffic, land use, crashes, emissions). UIC Urban Transportation Center, FTA FERSC initiative. | Next.js, FastAPI, MapLibre GL, PostgreSQL, Shapely | ![UIC UTC](https://img.shields.io/badge/UIC_UTC-FTA_FERSC-2563EB?style=flat-square) |
+| **Optimal Congestion Zone Analysis** | Framework for optimal congestion-pricing zone boundaries via OSM road networks, origin-destination trip flows, and graph-theory cut-edge optimization. UIC. | Python, OSMnx, NetworkX, GeoPandas | [![Doc](https://img.shields.io/badge/Doc-4285F4?style=flat-square&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/1qDFizGekW9mCApi7k8pXx-rC9qcEInEFzZWHhMpDN7Y/) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/optimal-cordon-zones) |
+
+</details>
+
+<details>
+<summary><b>Research and Data Mining</b> &nbsp;<img src="assets/chevron.svg" width="18" alt="expand" /></summary>
+
+<br/>
+
+| Project | What it is | Stack | Links |
+| ------- | ---------- | ----- | :---: |
+| **Galaxy Morphology XAI** | Systematic evaluation of Grad-CAM, LIME, Integrated Gradients, and GradientSHAP across four CNN architectures on galaxy datasets, using quantitative faithfulness metrics. | PyTorch, Captum, LIME, scikit-learn | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/galaxy-morphology-xai) |
+| **FairLend Miners** | PySpark data-mining audit of racial and gender disparities in HMDA 2023 mortgage lending: standard vs epsilon-biased fair binning with FP-Growth and K-Means. | PySpark, FP-Growth, K-Means, Parquet | [![arXiv](https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2606.12435) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/FairLend-Miners) |
 
 </details>
 
@@ -349,6 +388,33 @@ _When I'm not building, I'm reading, traveling somewhere new, or lost in a logic
 
 > [!NOTE]
 > Some deployed projects have broken backends because the paid services behind them are no longer running. The code tells the full story, and I'm happy to walk through any of it.
+
+<div align="center"><img src="assets/divider.svg" width="70%" alt="" /></div>
+
+## Research & Publications
+
+9 papers and preprints across software engineering, ML fairness, and AI safety, including peer-reviewed work at **ASE 2026**, a **NeurIPS 2023** workshop, and **Springer** book chapters.
+
+| Publication | Venue | Year | Links |
+| ----------- | ----- | :--: | :---: |
+| **FairLint-DL: An IDE-Native Tool for Fairness Debugging of Deep Learning Software** | ASE 2026 (accepted) | 2026 | [![Demo](https://img.shields.io/badge/Demo-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/AmfpjK24uwY) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/FairLint-DL) |
+| **Auditing Discriminatory Patterns in Mortgage Lending Through Association Rules and Fair Binning** | arXiv · cs.CY / cs.DB / cs.LG | 2026 | [![arXiv](https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2606.12435) |
+| **Responsible AI for Scientific Discovery: Explainability for Galaxy Morphology Classification** | UIC Technical Report (submitted to SKAI 2026) | 2026 | |
+| **Measuring and Mitigating Toxicity in Large Language Models: A Comprehensive Replication Study** | UIC Technical Report | 2025 | [![arXiv](https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2605.14087) |
+| **Coordinated Amplification and Misinformation Detection in Global YouTube Conflict Narratives** | UIC · CS 418 | 2025 | |
+| **Benchmarking Algorithms for Heterogeneous Treatment Effect Estimation in Networks** | UIC Technical Report | 2024 | |
+| **Ascend.AI: Facial Expression, Tone, and Pitch Analysis with Chatbot Guidance** | ICDSA 2024 · Springer (peer-reviewed) | 2024 | [![Springer](https://img.shields.io/badge/Springer-1F4E79?style=flat-square&logo=springer&logoColor=white)](https://link.springer.com/chapter/10.1007/978-981-96-1185-0_6) |
+| **Multiagent Simulators for Social Networks** | NeurIPS 2023 · MASec Workshop (peer-reviewed) | 2023 | [![OpenReview](https://img.shields.io/badge/OpenReview-8B1A1A?style=flat-square)](https://openreview.net/forum?id=eL61LbI4uv) |
+| **Leveraging CNNs and Ensemble Learning for Automated Disaster Image Classification** | ICSISCET 2023 · Springer (peer-reviewed) | 2023 | [![Springer](https://img.shields.io/badge/Springer-1F4E79?style=flat-square&logo=springer&logoColor=white)](https://link.springer.com/chapter/10.1007/978-981-97-0327-2_23) |
+
+<div align="center"><img src="assets/divider.svg" width="70%" alt="" /></div>
+
+## Education
+
+| Institution | Degree | Period | Highlights |
+| ----------- | ------ | ------ | ---------- |
+| **University of Illinois Chicago** | M.S. Computer Science | Aug 2024 - May 2026 | GPA 3.7 / 4.0 · NLP, Data Science, Algorithmic Fairness, Responsible AI |
+| **University of Mumbai** (Thadomal Shahani Engineering College) | B.E. Information Technology | Feb 2021 - May 2024 | CGPA 9.32 / 10 · DSA, Theory of Computation, ML, Data Mining, Image Processing |
 
 <div align="center"><img src="assets/divider.svg" width="70%" alt="" /></div>
 
