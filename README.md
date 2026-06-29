@@ -209,10 +209,9 @@ _When I'm not building, I'm reading, traveling somewhere new, or lost in a logic
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Archit1706/PhishFence"><img src="assets/card-phishfence.svg" width="100%" alt="PhishFence - detects and blocks phishing domains in real time" /></a>
+<a href="https://github.com/Archit1706/galaxy-ops"><img src="assets/card-galaxyops.svg" width="100%" alt="GalaxyOps - production Kubernetes platform for ML inference" /></a>
 <br/>
-<a href="https://phish-fence.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
-<a href="https://github.com/Archit1706/PhishFence"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
+<a href="https://github.com/Archit1706/galaxy-ops"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
 
 </td>
 </tr>
@@ -227,10 +226,10 @@ _When I'm not building, I'm reading, traveling somewhere new, or lost in a logic
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Archit1706/DSAverse"><img src="assets/card-dsaverse.svg" width="100%" alt="DSAverse - master data structures and algorithms visually" /></a>
+<a href="https://github.com/Archit1706/transit-lake"><img src="assets/card-transitlake.svg" width="100%" alt="TransitLake - Dagster medallion lakehouse for Chicago transit" /></a>
 <br/>
-<a href="https://dsa-verse.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
-<a href="https://github.com/Archit1706/DSAverse"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
+<a href="https://transitlake.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
+<a href="https://github.com/Archit1706/transit-lake"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
 
 </td>
 </tr>
