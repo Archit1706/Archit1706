@@ -1,62 +1,39 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=200&section=header&text=Archit%20Rathod&fontSize=56&fontColor=ffffff&fontAlignY=42&animation=fadeIn" alt="Archit Rathod" width="100%" />
+<img src="assets/banner-atlas.svg" width="100%" alt="Archit Rathod · software engineer and ML fairness researcher · Chicago, IL" />
 
-### I build scalable, cloud-native systems, and I make sure they're fair.
+[![Portfolio](https://img.shields.io/badge/Portfolio-architr.vercel.app-172033?style=flat-square&logo=vercel&logoColor=E3A857)](https://architr.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-archit--rathod-172033?style=flat-square&logo=linkedin&logoColor=E3A857)](https://www.linkedin.com/in/archit-rathod)
+[![Google Scholar](https://img.shields.io/badge/Scholar-publications-172033?style=flat-square&logo=googlescholar&logoColor=E3A857)](https://scholar.google.com/citations?user=dgd_6_8AAAAJ&hl=en)
+[![Email](https://img.shields.io/badge/Email-arath21%40uic.edu-172033?style=flat-square&logo=gmail&logoColor=E3A857)](mailto:arath21@uic.edu)
+[![X](https://img.shields.io/badge/X-@ArchitRathod__17-172033?style=flat-square&logo=x&logoColor=E3A857)](https://twitter.com/ArchitRathod_17)
 
-**MS Computer Science @ University of Illinois Chicago** &nbsp;·&nbsp; **Google Summer of Code 2025** &nbsp;·&nbsp; **Research Assistant, UIC Urban Transportation Center**
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-architr.vercel.app-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://architr.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/archit-rathod)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Research-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=dgd_6_8AAAAJ&hl=en)
-[![Email](https://img.shields.io/badge/Email-Reach_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arath21@uic.edu)
-[![X](https://img.shields.io/badge/X-@ArchitRathod__17-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ArchitRathod_17)
-
-<br/>
-
-![Open to 2026 roles](https://img.shields.io/badge/Open_to-Software_Engineering_·_AI%2FML_·_Full--Stack_roles_(2026)-16A34A?style=for-the-badge)
+<a href="https://architr.vercel.app/#contact"><img src="assets/status-strip.svg" width="100%" alt="Open to Software Engineering, AI/ML, and Full-Stack roles · 2026" /></a>
 
 </div>
 
 <div align="center"><img src="assets/divider.svg" width="70%" alt="" /></div>
 
-## The short version
+## 01 · The brief
 
-<table>
-<tr>
-<td width="64%" valign="top">
+I'm a software engineer and researcher who builds systems that are **measurably correct** and **demonstrably fair**, from OpenStreetMap road closures at city scale to fairness auditing for deep models.
 
-I'm a software engineer and researcher drawn to problems that sit at the intersection of **scale** and **responsibility**.
-
-Over the past few years I've:
+Recent waypoints:
 
 &nbsp;&nbsp;**▸ Shipped** a Google Summer of Code API now used by the **OpenStreetMap** community<br/>
 &nbsp;&nbsp;**▸ Built** the first **GitLab Duo Agent** implementing Green Software Foundation standards<br/>
-&nbsp;&nbsp;**▸ Engineered** data pipelines for large-scale behavioral simulations<br/>
-&nbsp;&nbsp;**▸ Published** 9 papers across software engineering, ML fairness, and AI safety (ASE 2026, a NeurIPS 2023 workshop, Springer)
+&nbsp;&nbsp;**▸ Engineered** geospatial pipelines processing **300GB+** of freight data across **285+ municipalities**<br/>
+&nbsp;&nbsp;**▸ Published** 9 papers and reports across software engineering, ML fairness, and AI safety (**ASE 2026**, a **NeurIPS 2023** workshop, **Springer ×2**)
 
-I move comfortably across the whole stack, from React/Next.js front-ends to FastAPI services, cloud infrastructure, and the ML models in between.
+I work across the whole stack: React/Next.js front ends, FastAPI services, cloud infrastructure, and the ML models in between. The current focus is responsible AI, algorithmic fairness, and geospatial data systems. Fast and scalable is table stakes; I care that systems are also **accountable**.
 
-**Focus right now:** Responsible AI, algorithmic fairness, geospatial data systems, and full-stack microservices. I care about systems that are not just fast and scalable, but accountable.
+<div align="center"><img src="assets/field-notes.svg" width="100%" alt="Field notes: 9 publications and reports, 40+ projects, 285+ municipalities served, 8.5M+ OD pairs processed, 103,481 applications audited, 5+ years shipping" /></div>
 
-_When I'm not building, I'm reading, traveling somewhere new, or lost in a logic puzzle or a quant-finance rabbit hole. An introvert who's genuinely easy to talk to, so say hi._
-
-</td>
-<td width="36%" valign="top">
-
-<a href="https://github.com/Archit1706/Archit1706/raw/main/assets/intro-video.mp4"><img src="assets/intro.webp" width="100%" alt="Archit intro video" /></a>
-
-</td>
-</tr>
-</table>
-
-> **I'm actively looking for full-time Software Engineering, AI/ML, and Full-Stack roles starting in 2026.** &nbsp; [Let's talk](https://architr.vercel.app/#contact)
+> **Looking for full-time Software Engineering, AI/ML, and Full-Stack roles starting 2026.** &nbsp; [Start a conversation ↗](https://architr.vercel.app/#contact)
 
 ---
 
-## What I'm working on now
+## 02 · Current waypoints
 
 - **Research Assistant** at UIC's **Urban Transportation Center**, building **Freight Toolkit**, a regional freight analytics dashboard spanning 285+ Chicago municipalities (FTA FERSC initiative).
 - **Completed Google Summer of Code 2025**: a Temporary Road Closures API and database adopted by the OpenStreetMap Foundation.
@@ -65,103 +42,103 @@ _When I'm not building, I'm reading, traveling somewhere new, or lost in a logic
 
 ---
 
-## Tech I work with
+## 03 · The instruments
 
 <div align="center">
-  <img src="assets/skills-galaxy-v3.svg" width="92%" alt="Tech solar system: category orbits of language, ML, framework, cloud, data and geospatial icons around a glowing AR core" />
+  <img src="assets/skills-constellations.svg" width="100%" alt="Star chart of skills drawn as five constellations: Languages, ML and Data, Web and APIs, Geospatial, and Infra and Cloud. Major stars mark Python, TypeScript, PyTorch, Next.js, React, FastAPI, PostGIS, PostgreSQL, and Docker." />
 </div>
 
 <details>
-<summary><b>The full stack, by category</b></summary>
+<summary><b>Every instrument, by category</b> &nbsp;<img src="assets/chevron.svg" width="18" alt="expand" /></summary>
 
 <br/>
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-172033?style=flat-square&logo=python&logoColor=EAE7DB)
+![TypeScript](https://img.shields.io/badge/TypeScript-172033?style=flat-square&logo=typescript&logoColor=EAE7DB)
+![JavaScript](https://img.shields.io/badge/JavaScript-172033?style=flat-square&logo=javascript&logoColor=EAE7DB)
+![SQL](https://img.shields.io/badge/SQL-172033?style=flat-square&logo=postgresql&logoColor=EAE7DB)
+![C++](https://img.shields.io/badge/C++-172033?style=flat-square&logo=cplusplus&logoColor=EAE7DB)
+![Rust](https://img.shields.io/badge/Rust-172033?style=flat-square&logo=rust&logoColor=EAE7DB)
 
 **Machine Learning & Data**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white)
-![LLM Agents](https://img.shields.io/badge/LLM_Agents-6E56CF?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-6E56CF?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6E56CF?style=for-the-badge)
-![Fine-Tuning](https://img.shields.io/badge/Fine--Tuning-6E56CF?style=for-the-badge)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![ETL Pipelines](https://img.shields.io/badge/ETL_Pipelines-4B5563?style=for-the-badge)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-172033?style=flat-square&logo=pytorch&logoColor=EAE7DB)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-172033?style=flat-square&logo=scikitlearn&logoColor=EAE7DB)
+![LangChain](https://img.shields.io/badge/LangChain-172033?style=flat-square&logo=langchain&logoColor=EAE7DB)
+![LangGraph](https://img.shields.io/badge/LangGraph-172033?style=flat-square&logoColor=EAE7DB)
+![LLM Agents](https://img.shields.io/badge/LLM_Agents-172033?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-172033?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-172033?style=flat-square)
+![Fine-Tuning](https://img.shields.io/badge/Fine--Tuning-172033?style=flat-square)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-172033?style=flat-square&logo=huggingface&logoColor=EAE7DB)
+![OpenAI](https://img.shields.io/badge/OpenAI-172033?style=flat-square&logo=openai&logoColor=EAE7DB)
+![PySpark](https://img.shields.io/badge/PySpark-172033?style=flat-square&logo=apachespark&logoColor=EAE7DB)
+![ETL Pipelines](https://img.shields.io/badge/ETL_Pipelines-172033?style=flat-square)
+![NumPy](https://img.shields.io/badge/NumPy-172033?style=flat-square&logo=numpy&logoColor=EAE7DB)
+![Pandas](https://img.shields.io/badge/Pandas-172033?style=flat-square&logo=pandas&logoColor=EAE7DB)
+![OpenCV](https://img.shields.io/badge/OpenCV-172033?style=flat-square&logo=opencv&logoColor=EAE7DB)
+![Plotly](https://img.shields.io/badge/Plotly-172033?style=flat-square&logo=plotly&logoColor=EAE7DB)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-172033?style=flat-square&logo=python&logoColor=EAE7DB)
 
 **Frameworks & Tools**
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![NetworkX](https://img.shields.io/badge/NetworkX-2C5BB4?style=for-the-badge)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-172033?style=flat-square&logo=nextdotjs&logoColor=EAE7DB)
+![React](https://img.shields.io/badge/React-172033?style=flat-square&logo=react&logoColor=EAE7DB)
+![Node.js](https://img.shields.io/badge/Node.js-172033?style=flat-square&logo=nodedotjs&logoColor=EAE7DB)
+![FastAPI](https://img.shields.io/badge/FastAPI-172033?style=flat-square&logo=fastapi&logoColor=EAE7DB)
+![Flask](https://img.shields.io/badge/Flask-172033?style=flat-square&logo=flask&logoColor=EAE7DB)
+![Express](https://img.shields.io/badge/Express-172033?style=flat-square&logo=express&logoColor=EAE7DB)
+![NetworkX](https://img.shields.io/badge/NetworkX-172033?style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-172033?style=flat-square&logo=tailwindcss&logoColor=EAE7DB)
+![Git](https://img.shields.io/badge/Git-172033?style=flat-square&logo=git&logoColor=EAE7DB)
+![Postman](https://img.shields.io/badge/Postman-172033?style=flat-square&logo=postman&logoColor=EAE7DB)
 
 **Cloud & DevOps**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions_(CI%2FCD)-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Monitoring](https://img.shields.io/badge/Monitoring-3B4252?style=for-the-badge)
-![System Design](https://img.shields.io/badge/System_Design-3B4252?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-172033?style=flat-square&logo=amazonwebservices&logoColor=EAE7DB)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-172033?style=flat-square&logo=googlecloud&logoColor=EAE7DB)
+![Docker](https://img.shields.io/badge/Docker-172033?style=flat-square&logo=docker&logoColor=EAE7DB)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-172033?style=flat-square&logo=kubernetes&logoColor=EAE7DB)
+![Terraform](https://img.shields.io/badge/Terraform-172033?style=flat-square&logo=terraform&logoColor=EAE7DB)
+![nginx](https://img.shields.io/badge/nginx-172033?style=flat-square&logo=nginx&logoColor=EAE7DB)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions_(CI%2FCD)-172033?style=flat-square&logo=githubactions&logoColor=EAE7DB)
+![Vercel](https://img.shields.io/badge/Vercel-172033?style=flat-square&logo=vercel&logoColor=EAE7DB)
+![Monitoring](https://img.shields.io/badge/Monitoring-172033?style=flat-square)
+![System Design](https://img.shields.io/badge/System_Design-172033?style=flat-square)
 
 **Databases**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Parquet](https://img.shields.io/badge/Parquet-50ABF1?style=for-the-badge&logo=apacheparquet&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-172033?style=flat-square&logo=postgresql&logoColor=EAE7DB)
+![pgvector](https://img.shields.io/badge/pgvector-172033?style=flat-square&logo=postgresql&logoColor=EAE7DB)
+![MongoDB](https://img.shields.io/badge/MongoDB-172033?style=flat-square&logo=mongodb&logoColor=EAE7DB)
+![Redis](https://img.shields.io/badge/Redis-172033?style=flat-square&logo=redis&logoColor=EAE7DB)
+![Neo4j](https://img.shields.io/badge/Neo4j-172033?style=flat-square&logo=neo4j&logoColor=EAE7DB)
+![BigQuery](https://img.shields.io/badge/BigQuery-172033?style=flat-square&logo=googlebigquery&logoColor=EAE7DB)
+![MySQL](https://img.shields.io/badge/MySQL-172033?style=flat-square&logo=mysql&logoColor=EAE7DB)
+![Parquet](https://img.shields.io/badge/Parquet-172033?style=flat-square&logo=apacheparquet&logoColor=EAE7DB)
+![Prisma](https://img.shields.io/badge/Prisma-172033?style=flat-square&logo=prisma&logoColor=EAE7DB)
 
 **Geospatial**
 
-![PostGIS](https://img.shields.io/badge/PostGIS-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![OSMnx](https://img.shields.io/badge/OSMnx-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white)
-![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge&logo=geopandas&logoColor=white)
-![Shapely](https://img.shields.io/badge/Shapely-2E7D32?style=for-the-badge)
-![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
-![MapLibre GL](https://img.shields.io/badge/MapLibre_GL-396CB2?style=for-the-badge&logo=maplibre&logoColor=white)
-![OpenLR](https://img.shields.io/badge/OpenLR-0F766E?style=for-the-badge)
-![Valhalla](https://img.shields.io/badge/Valhalla-1F6FEB?style=for-the-badge)
-![OpenTripPlanner](https://img.shields.io/badge/OpenTripPlanner-2E7D32?style=for-the-badge)
+![PostGIS](https://img.shields.io/badge/PostGIS-172033?style=flat-square&logo=postgresql&logoColor=EAE7DB)
+![OSMnx](https://img.shields.io/badge/OSMnx-172033?style=flat-square&logo=openstreetmap&logoColor=EAE7DB)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-172033?style=flat-square&logo=geopandas&logoColor=EAE7DB)
+![Shapely](https://img.shields.io/badge/Shapely-172033?style=flat-square)
+![Leaflet](https://img.shields.io/badge/Leaflet-172033?style=flat-square&logo=leaflet&logoColor=EAE7DB)
+![MapLibre GL](https://img.shields.io/badge/MapLibre_GL-172033?style=flat-square&logo=maplibre&logoColor=EAE7DB)
+![OpenLR](https://img.shields.io/badge/OpenLR-172033?style=flat-square)
+![Valhalla](https://img.shields.io/badge/Valhalla-172033?style=flat-square)
+![OpenTripPlanner](https://img.shields.io/badge/OpenTripPlanner-172033?style=flat-square)
 
 </details>
 
 <div align="center"><img src="assets/divider.svg" width="70%" alt="" /></div>
 
-## Featured work
+## 04 · Selected work
 
-> A highlight reel. The full archive of 40+ projects across AI/ML, web, Python, and Java is in the collapsible sections below.
+> The flagship expeditions. The full survey of 40+ projects across AI/ML, web, Python, and Java is charted in the collapsible sections below.
 
 <table>
 <tr>
@@ -169,15 +146,15 @@ _When I'm not building, I'm reading, traveling somewhere new, or lost in a logic
 
 <a href="https://github.com/Archit1706/temporary-road-closures"><img src="assets/card-roads.svg" width="100%" alt="OSM Road Closures - real-time temporary road closure reporting (Google Summer of Code 2025)" /></a>
 <br/>
-<a href="https://closures.osm.ch"><img src="https://img.shields.io/badge/Live-closures.osm.ch-2563EB?style=for-the-badge&logo=openstreetmap&logoColor=white" alt="Live" /></a>
-<a href="https://github.com/Archit1706/temporary-road-closures#readme"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
+<a href="https://closures.osm.ch"><img src="https://img.shields.io/badge/Live-closures.osm.ch-172033?style=flat-square&logo=openstreetmap&logoColor=E3A857" alt="Live" /></a>
+<a href="https://github.com/Archit1706/temporary-road-closures#readme"><img src="https://img.shields.io/badge/Code-172033?style=flat-square&logo=github&logoColor=EAE7DB" alt="Code" /></a>
 
 </td>
 <td width="50%" valign="top">
 
 <a href="https://github.com/Archit1706/green-pipe"><img src="assets/card-greenpipe.svg" width="100%" alt="GreenPipe - the first GitLab Duo Agent on Green Software Foundation standards" /></a>
 <br/>
-<a href="https://github.com/Archit1706/green-pipe"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
+<a href="https://github.com/Archit1706/green-pipe"><img src="https://img.shields.io/badge/Code-172033?style=flat-square&logo=github&logoColor=EAE7DB" alt="Code" /></a>
 
 </td>
 </tr>
@@ -186,15 +163,15 @@ _When I'm not building, I'm reading, traveling somewhere new, or lost in a logic
 
 <a href="https://github.com/Archit1706/fair-guard"><img src="assets/card-fairguard.svg" width="100%" alt="FairGuard - agentic AI for investigative journalism (Northwestern GAIN Challenge)" /></a>
 <br/>
-<a href="https://github.com/Archit1706/fair-guard"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
+<a href="https://github.com/Archit1706/fair-guard"><img src="https://img.shields.io/badge/Code-172033?style=flat-square&logo=github&logoColor=EAE7DB" alt="Code" /></a>
 
 </td>
 <td width="50%" valign="top">
 
 <a href="https://github.com/Archit1706/relfair"><img src="assets/card-relfair.svg" width="100%" alt="relfair - relationship-aware counterfactual fairness testing for ML" /></a>
 <br/>
-<a href="https://pypi.org/project/relfair/"><img src="https://img.shields.io/badge/PyPI-relfair-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI" /></a>
-<a href="https://github.com/Archit1706/relfair"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
+<a href="https://pypi.org/project/relfair/"><img src="https://img.shields.io/badge/PyPI-relfair-172033?style=flat-square&logo=pypi&logoColor=E3A857" alt="PyPI" /></a>
+<a href="https://github.com/Archit1706/relfair"><img src="https://img.shields.io/badge/Code-172033?style=flat-square&logo=github&logoColor=EAE7DB" alt="Code" /></a>
 
 </td>
 </tr>
@@ -203,15 +180,15 @@ _When I'm not building, I'm reading, traveling somewhere new, or lost in a logic
 
 <a href="https://github.com/Archit1706/Keya-Agentic-AI-assistant-for-Real-Estate"><img src="assets/card-keya.svg" width="100%" alt="Keya - conversational real-estate assistant" /></a>
 <br/>
-<a href="https://cs532-project.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
-<a href="https://github.com/Archit1706/Keya-Agentic-AI-assistant-for-Real-Estate"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
+<a href="https://cs532-project.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-172033?style=flat-square&logo=vercel&logoColor=E3A857" alt="Live Demo" /></a>
+<a href="https://github.com/Archit1706/Keya-Agentic-AI-assistant-for-Real-Estate"><img src="https://img.shields.io/badge/Code-172033?style=flat-square&logo=github&logoColor=EAE7DB" alt="Code" /></a>
 
 </td>
 <td width="50%" valign="top">
 
 <a href="https://github.com/Archit1706/galaxy-ops"><img src="assets/card-galaxyops.svg" width="100%" alt="GalaxyOps - production Kubernetes platform for ML inference" /></a>
 <br/>
-<a href="https://github.com/Archit1706/galaxy-ops"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
+<a href="https://github.com/Archit1706/galaxy-ops"><img src="https://img.shields.io/badge/Code-172033?style=flat-square&logo=github&logoColor=EAE7DB" alt="Code" /></a>
 
 </td>
 </tr>
@@ -220,16 +197,16 @@ _When I'm not building, I'm reading, traveling somewhere new, or lost in a logic
 
 <a href="https://github.com/Archit1706/FairLint-DL"><img src="assets/card-fairlint.svg" width="100%" alt="FairLint-DL - fairness and bias linter for deep learning, VS Code extension" /></a>
 <br/>
-<a href="https://open-vsx.org/extension/fairness-tools/fairlint-dl"><img src="https://img.shields.io/badge/Install-Open_VSX-C160EF?style=for-the-badge&logo=vscodium&logoColor=white" alt="Install" /></a>
-<a href="https://github.com/Archit1706/FairLint-DL"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
+<a href="https://open-vsx.org/extension/fairness-tools/fairlint-dl"><img src="https://img.shields.io/badge/Install-Open_VSX-172033?style=flat-square&logo=vscodium&logoColor=E3A857" alt="Install" /></a>
+<a href="https://github.com/Archit1706/FairLint-DL"><img src="https://img.shields.io/badge/Code-172033?style=flat-square&logo=github&logoColor=EAE7DB" alt="Code" /></a>
 
 </td>
 <td width="50%" valign="top">
 
 <a href="https://github.com/Archit1706/transit-lake"><img src="assets/card-transitlake.svg" width="100%" alt="TransitLake - Dagster medallion lakehouse for Chicago transit" /></a>
 <br/>
-<a href="https://transitlake.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
-<a href="https://github.com/Archit1706/transit-lake"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
+<a href="https://transitlake.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-172033?style=flat-square&logo=vercel&logoColor=E3A857" alt="Live Demo" /></a>
+<a href="https://github.com/Archit1706/transit-lake"><img src="https://img.shields.io/badge/Code-172033?style=flat-square&logo=github&logoColor=EAE7DB" alt="Code" /></a>
 
 </td>
 </tr>
@@ -237,7 +214,7 @@ _When I'm not building, I'm reading, traveling somewhere new, or lost in a logic
 
 ---
 
-## The full archive
+## 05 · The full archive
 
 <details>
 <summary><b>AI Agents and Skills</b> &nbsp;<img src="assets/chevron.svg" width="18" alt="expand" /></summary>
@@ -246,8 +223,8 @@ _When I'm not building, I'm reading, traveling somewhere new, or lost in a logic
 
 | Agent / Skill Set | What it is                                                                                                                                                                | Repo                                                |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------: |
-| FairGuard         | Reusable Claude Code Agent Skills for investigative journalism, plus findings on 1M+ federal lobbying records and congressional press releases (2022-Q1 2026). Northwestern GAIN Challenge. | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/fair-guard) |
-| Lattice           | AI-native venture-intelligence platform: a multi-agent LangGraph and Neo4j institutional-memory layer that extracts relationship graphs and semantic memory for VC firms. | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/lattice-ai) |
+| FairGuard         | Reusable Claude Code Agent Skills for investigative journalism, plus findings on 1M+ federal lobbying records and congressional press releases (2022-Q1 2026). Northwestern GAIN Challenge. | [![Code](https://img.shields.io/badge/Code-172033?style=flat-square&logo=github&logoColor=EAE7DB)](https://github.com/Archit1706/fair-guard) |
+| Lattice           | AI-native venture-intelligence platform: a multi-agent LangGraph and Neo4j institutional-memory layer that extracts relationship graphs and semantic memory for VC firms. | [![Code](https://img.shields.io/badge/Code-172033?style=flat-square&logo=github&logoColor=EAE7DB)](https://github.com/Archit1706/lattice-ai) |
 
 </details>
 
@@ -258,10 +235,10 @@ _When I'm not building, I'm reading, traveling somewhere new, or lost in a logic
 
 | Project | What it is | Stack | Links |
 | ------- | ---------- | ----- | :---: |
-| **GalaxyServe** | Production MLOps loop for a galaxy classifier: FastAPI serving, MLflow registry, Evidently drift detection, Prometheus/Grafana, and CI-gated champion/challenger retraining. | PyTorch, FastAPI, MLflow, Evidently | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/galaxy-serve) |
-| **GalaxyOps** | Production-grade Kubernetes platform: Terraform + Helm + ArgoCD GitOps with kube-prometheus-stack, HPA autoscaling, chaos testing, and a 99.9% availability SLO. | Kubernetes, Terraform, Helm, ArgoCD | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/galaxy-ops) |
-| **TransitLake** | Dagster medallion lakehouse for Chicago transit: GTFS, real-time vehicle positions, congestion, and weather into dbt models on DuckDB with 100+ data-quality checks. | Dagster, dbt, DuckDB, Great Expectations | [![Live](https://img.shields.io/badge/Live-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://transitlake.vercel.app) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/transit-lake) |
-| **CryptoNorm** | Real-time crypto market-data normalizer and P&L/risk dashboard: async multi-exchange WebSocket ingestion normalized through Kafka with a Redis state cache. | Python asyncio, Kafka, Redis, FastAPI | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/CryptoNorm) |
+| **GalaxyServe** | Production MLOps loop for a galaxy classifier: FastAPI serving, MLflow registry, Evidently drift detection, Prometheus/Grafana, and CI-gated champion/challenger retraining. | PyTorch, FastAPI, MLflow, Evidently | [![Code](https://img.shields.io/badge/Code-172033?style=flat-square&logo=github&logoColor=EAE7DB)](https://github.com/Archit1706/galaxy-serve) |
+| **GalaxyOps** | Production-grade Kubernetes platform: Terraform + Helm + ArgoCD GitOps with kube-prometheus-stack, HPA autoscaling, chaos testing, and a 99.9% availability SLO. | Kubernetes, Terraform, Helm, ArgoCD | [![Code](https://img.shields.io/badge/Code-172033?style=flat-square&logo=github&logoColor=EAE7DB)](https://github.com/Archit1706/galaxy-ops) |
+| **TransitLake** | Dagster medallion lakehouse for Chicago transit: GTFS, real-time vehicle positions, congestion, and weather into dbt models on DuckDB with 100+ data-quality checks. | Dagster, dbt, DuckDB, Great Expectations | [![Live](https://img.shields.io/badge/Live-172033?style=flat-square&logo=vercel&logoColor=E3A857)](https://transitlake.vercel.app) [![Code](https://img.shields.io/badge/Code-172033?style=flat-square&logo=github&logoColor=EAE7DB)](https://github.com/Archit1706/transit-lake) |
+| **CryptoNorm** | Real-time crypto market-data normalizer and P&L/risk dashboard: async multi-exchange WebSocket ingestion normalized through Kafka with a Redis state cache. | Python asyncio, Kafka, Redis, FastAPI | [![Code](https://img.shields.io/badge/Code-172033?style=flat-square&logo=github&logoColor=EAE7DB)](https://github.com/Archit1706/CryptoNorm) |
 
 </details>
 
@@ -272,8 +249,8 @@ _When I'm not building, I'm reading, traveling somewhere new, or lost in a logic
 
 | Project | What it is | Stack | Links |
 | ------- | ---------- | ----- | :---: |
-| **Freight Toolkit** | CMAP regional freight analytics dashboard across 285+ Chicago municipalities (truck traffic, land use, crashes, emissions). UIC Urban Transportation Center, FTA FERSC initiative. | Next.js, FastAPI, MapLibre GL, PostgreSQL, Shapely | ![UIC UTC](https://img.shields.io/badge/UIC_UTC-FTA_FERSC-2563EB?style=flat-square) |
-| **Optimal Congestion Zone Analysis** | Framework for optimal congestion-pricing zone boundaries via OSM road networks, origin-destination trip flows, and graph-theory cut-edge optimization. UIC. | Python, OSMnx, NetworkX, GeoPandas | [![Doc](https://img.shields.io/badge/Doc-4285F4?style=flat-square&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/1qDFizGekW9mCApi7k8pXx-rC9qcEInEFzZWHhMpDN7Y/) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/optimal-cordon-zones) |
+| **Freight Toolkit** | CMAP regional freight analytics dashboard across 285+ Chicago municipalities (truck traffic, land use, crashes, emissions). UIC Urban Transportation Center, FTA FERSC initiative. | Next.js, FastAPI, MapLibre GL, PostgreSQL, Shapely | ![UIC UTC](https://img.shields.io/badge/UIC_UTC-FTA_FERSC-172033?style=flat-square) |
+| **Optimal Congestion Zone Analysis** | Framework for optimal congestion-pricing zone boundaries via OSM road networks, origin-destination trip flows, and graph-theory cut-edge optimization. UIC. | Python, OSMnx, NetworkX, GeoPandas | [![Doc](https://img.shields.io/badge/Doc-172033?style=flat-square&logo=googledocs&logoColor=E3A857)](https://docs.google.com/document/d/1qDFizGekW9mCApi7k8pXx-rC9qcEInEFzZWHhMpDN7Y/) [![Code](https://img.shields.io/badge/Code-172033?style=flat-square&logo=github&logoColor=EAE7DB)](https://github.com/Archit1706/optimal-cordon-zones) |
 
 </details>
 
@@ -284,8 +261,8 @@ _When I'm not building, I'm reading, traveling somewhere new, or lost in a logic
 
 | Project | What it is | Stack | Links |
 | ------- | ---------- | ----- | :---: |
-| **Galaxy Morphology XAI** | Systematic evaluation of Grad-CAM, LIME, Integrated Gradients, and GradientSHAP across four CNN architectures on galaxy datasets, using quantitative faithfulness metrics. | PyTorch, Captum, LIME, scikit-learn | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/galaxy-morphology-xai) |
-| **FairLend Miners** | PySpark data-mining audit of racial and gender disparities in HMDA 2023 mortgage lending: standard vs epsilon-biased fair binning with FP-Growth and K-Means. | PySpark, FP-Growth, K-Means, Parquet | [![arXiv](https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2606.12435) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/FairLend-Miners) |
+| **Galaxy Morphology XAI** | Systematic evaluation of Grad-CAM, LIME, Integrated Gradients, and GradientSHAP across four CNN architectures on galaxy datasets, using quantitative faithfulness metrics. | PyTorch, Captum, LIME, scikit-learn | [![Code](https://img.shields.io/badge/Code-172033?style=flat-square&logo=github&logoColor=EAE7DB)](https://github.com/Archit1706/galaxy-morphology-xai) |
+| **FairLend Miners** | PySpark data-mining audit of racial and gender disparities in HMDA 2023 mortgage lending: standard vs epsilon-biased fair binning with FP-Growth and K-Means. | PySpark, FP-Growth, K-Means, Parquet | [![arXiv](https://img.shields.io/badge/arXiv-172033?style=flat-square&logo=arxiv&logoColor=E3A857)](https://arxiv.org/abs/2606.12435) [![Code](https://img.shields.io/badge/Code-172033?style=flat-square&logo=github&logoColor=EAE7DB)](https://github.com/Archit1706/FairLend-Miners) |
 
 </details>
 
@@ -296,11 +273,11 @@ _When I'm not building, I'm reading, traveling somewhere new, or lost in a logic
 
 | Web / App                                |                 Demo                  |                              Contribute                              |
 | ---------------------------------------- | :-----------------------------------: | :------------------------------------------------------------------: |
-| Green Pipe                               |                  -                |          [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/green-pipe)            |
-| FairLint-DL VSCode Extension             |[![Live](https://img.shields.io/badge/Live-2563EB?style=flat-square&logo=vscodium&logoColor=white)](https://open-vsx.org/extension/fairness-tools/fairlint-dl)|  [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/FairLint-DL) |
-| Temporary Road Closures API and Database |    [![Live](https://img.shields.io/badge/Live-2563EB?style=flat-square&logo=openstreetmap&logoColor=white)](https://closures.osm.ch)    | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/temporary-road-closures#readme) |
-| DSAverse                                 | [![Live](https://img.shields.io/badge/Live-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://dsa-verse.vercel.app/) |            [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/DSAverse)            |
-| DSA-30                                   |   [![Live](https://img.shields.io/badge/Live-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://dsa30.vercel.app/)   |         [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/DSA-30/#readme)         |
+| Green Pipe                               |                  -                |          [![Code](https://img.shields.io/badge/Code-172033?style=flat-square&logo=github&logoColor=EAE7DB)](https://github.com/Archit1706/green-pipe)            |
+| FairLint-DL VSCode Extension             |[![Live](https://img.shields.io/badge/Live-172033?style=flat-square&logo=vscodium&logoColor=E3A857)](https://open-vsx.org/extension/fairness-tools/fairlint-dl)|  [![Code](https://img.shields.io/badge/Code-172033?style=flat-square&logo=github&logoColor=EAE7DB)](https://github.com/Archit1706/FairLint-DL) |
+| Temporary Road Closures API and Database |    [![Live](https://img.shields.io/badge/Live-172033?style=flat-square&logo=openstreetmap&logoColor=E3A857)](https://closures.osm.ch)    | [![Code](https://img.shields.io/badge/Code-172033?style=flat-square&logo=github&logoColor=EAE7DB)](https://github.com/Archit1706/temporary-road-closures#readme) |
+| DSAverse                                 | [![Live](https://img.shields.io/badge/Live-172033?style=flat-square&logo=vercel&logoColor=E3A857)](https://dsa-verse.vercel.app/) |            [![Code](https://img.shields.io/badge/Code-172033?style=flat-square&logo=github&logoColor=EAE7DB)](https://github.com/Archit1706/DSAverse)            |
+| DSA-30                                   |   [![Live](https://img.shields.io/badge/Live-172033?style=flat-square&logo=vercel&logoColor=E3A857)](https://dsa30.vercel.app/)   |         [![Code](https://img.shields.io/badge/Code-172033?style=flat-square&logo=github&logoColor=EAE7DB)](https://github.com/Archit1706/DSA-30/#readme)         |
 
 </details>
 
@@ -311,17 +288,17 @@ _When I'm not building, I'm reading, traveling somewhere new, or lost in a logic
 
 | Web App              | Front End             | Back End (Server / Database)                  | ML (Model / Dataset / Library)                              |                    Live Demo                    |                           Repo                           |
 | -------------------- | --------------------- | --------------------------------------------- | ----------------------------------------------------------- | :-----------------------------------------------: | :-----------------------------------------------------: |
-| Real Estate AI       | Next.js, Tailwind CSS | Fast API, SerpAPI, Zillow API, Google Cloud Run | Hugging Face, OpenAI                                      |    [![Live](https://img.shields.io/badge/Live-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://cs532-project.vercel.app/)      |  [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/cs532-project)  |
-| Multi Document Agent | Next.js, Tailwind CSS | Fast API                                      | Llama Index, OpenAI                                         |    [![Live](https://img.shields.io/badge/Live-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://multi-doc-agent.vercel.app/)    |  [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/multi-doc-agent)  |
-| FitSphere            | Next.js, Tailwind CSS | Fast API, MongoDB, Node.js                    | OpenCV, OpenAI                                              |        [![Live](https://img.shields.io/badge/Live-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://fitsphere.vercel.app/)        |      [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/FitSphere)      |
-| Ascend AI            | Next.js, Tailwind CSS | Fast API, MongoDB                             | OpenCV, Transformers, OpenAI, Librosa                       |      [![Live](https://img.shields.io/badge/Live-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://ascend-ai-mpr.vercel.app/)      |      [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/AscendAI)       |
-| PhishiFence          | Next.js, Tailwind CSS | Fast API, WhoisDB, Chrome Extension, Selenium | OpenCV, Transformers, OpenAI, LightGBM                      |       [![Live](https://img.shields.io/badge/Live-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://phish-fence.vercel.app/)        |    [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/PhishFence)     |
-| SwarBhaav            | Next.js, Tailwind CSS | MongoDB, Fast API, Node.js                    | Librosa, Transformers, OpenAI                               |        [![Live](https://img.shields.io/badge/Live-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://swarbhaav.vercel.app/)        |      [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/SwarBhaav)      |
-| Attire AI            | Next.js, Tailwind CSS | Flask                                         | Langchain, Stable Diffusion, NLTK, Llama                    |        [![Live](https://img.shields.io/badge/Live-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://attire-ai.vercel.app/)        |      [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/Attire-AI)      |
-| Reflections          | Next.js, Tailwind CSS | MongoDB, Fast API, Prisma                     | BERT, NLP, Recommender, Summarizer                          |   [![Live](https://img.shields.io/badge/Live-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://reflections-blog.vercel.app/)    | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/Reflections-Blogs) |
-| Home Ginie           | Next.js, Tailwind CSS | Fast API                                      | Linear Regressor, US Housing Dataset                        |       [![Live](https://img.shields.io/badge/Live-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://home-ginie.vercel.app/)        |    [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/Home-Ginie)     |
-| The One Finder       | Next.js, Tailwind CSS | MongoDB, Fast API, Node.js                    | Recommender                                                 |    [![Live](https://img.shields.io/badge/Live-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://the-one-finder.vercel.app/)     |  [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/The-One-Finder)   |
-| Social Vision        | Next.js, Tailwind CSS | MongoDB, Fast API                             | Recommender, WordCloud, Sentiment Analysis, Twitter Dataset | [![Live](https://img.shields.io/badge/Live-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://network-analysis-weld.vercel.app/) |   [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/SocialVision)    |
+| Real Estate AI       | Next.js, Tailwind CSS | Fast API, SerpAPI, Zillow API, Google Cloud Run | Hugging Face, OpenAI                                      |    [![Live](https://img.shields.io/badge/Live-172033?style=flat-square&logo=vercel&logoColor=E3A857)](https://cs532-project.vercel.app/)      |  [![Code](https://img.shields.io/badge/Code-172033?style=flat-square&logo=github&logoColor=EAE7DB)](https://github.com/Archit1706/cs532-project)  |
+| Multi Document Agent | Next.js, Tailwind CSS | Fast API                                      | Llama Index, OpenAI                                         |    [![Live](https://img.shields.io/badge/Live-172033?style=flat-square&logo=vercel&logoColor=E3A857)](https://multi-doc-agent.vercel.app/)    |  [![Code](https://img.shields.io/badge/Code-172033?style=flat-square&logo=github&logoColor=EAE7DB)](https://github.com/Archit1706/multi-doc-agent)  |
+| FitSphere            | Next.js, Tailwind CSS | Fast API, MongoDB, Node.js                    | OpenCV, OpenAI                                              |        [![Live](https://img.shields.io/badge/Live-172033?style=flat-square&logo=vercel&logoColor=E3A857)](https://fitsphere.vercel.app/)        |      [![Code](https://img.shields.io/badge/Code-172033?style=flat-square&logo=github&logoColor=EAE7DB)](https://github.com/Archit1706/FitSphere)      |
+| Ascend AI            | Next.js, Tailwind CSS | Fast API, MongoDB                             | OpenCV, Transformers, OpenAI, Librosa                       |      [![Live](https://img.shields.io/badge/Live-172033?style=flat-square&logo=vercel&logoColor=E3A857)](https://ascend-ai-mpr.vercel.app/)      |      [![Code](https://img.shields.io/badge/Code-172033?style=flat-square&logo=github&logoColor=EAE7DB)](https://github.com/Archit1706/AscendAI)       |
+| PhishiFence          | Next.js, Tailwind CSS | Fast API, WhoisDB, Chrome Extension, Selenium | OpenCV, Transformers, OpenAI, LightGBM                      |       [![Live](https://img.shields.io/badge/Live-172033?style=flat-square&logo=vercel&logoColor=E3A857)](https://phish-fence.vercel.app/)        |    [![Code](https://img.shields.io/badge/Code-172033?style=flat-square&logo=github&logoColor=EAE7DB)](https://github.com/Archit1706/PhishFence)     |
+| SwarBhaav            | Next.js, Tailwind CSS | MongoDB, Fast API, Node.js                    | Librosa, Transformers, OpenAI                               |        [![Live](https://img.shields.io/badge/Live-172033?style=flat-square&logo=vercel&logoColor=E3A857)](https://swarbhaav.vercel.app/)        |      [![Code](https://img.shields.io/badge/Code-172033?style=flat-square&logo=github&logoColor=EAE7DB)](https://github.com/Archit1706/SwarBhaav)      |
+| Attire AI            | Next.js, Tailwind CSS | Flask                                         | Langchain, Stable Diffusion, NLTK, Llama                    |        [![Live](https://img.shields.io/badge/Live-172033?style=flat-square&logo=vercel&logoColor=E3A857)](https://attire-ai.vercel.app/)        |      [![Code](https://img.shields.io/badge/Code-172033?style=flat-square&logo=github&logoColor=EAE7DB)](https://github.com/Archit1706/Attire-AI)      |
+| Reflections          | Next.js, Tailwind CSS | MongoDB, Fast API, Prisma                     | BERT, NLP, Recommender, Summarizer                          |   [![Live](https://img.shields.io/badge/Live-172033?style=flat-square&logo=vercel&logoColor=E3A857)](https://reflections-blog.vercel.app/)    | [![Code](https://img.shields.io/badge/Code-172033?style=flat-square&logo=github&logoColor=EAE7DB)](https://github.com/Archit1706/Reflections-Blogs) |
+| Home Ginie           | Next.js, Tailwind CSS | Fast API                                      | Linear Regressor, US Housing Dataset                        |       [![Live](https://img.shields.io/badge/Live-172033?style=flat-square&logo=vercel&logoColor=E3A857)](https://home-ginie.vercel.app/)        |    [![Code](https://img.shields.io/badge/Code-172033?style=flat-square&logo=github&logoColor=EAE7DB)](https://github.com/Archit1706/Home-Ginie)     |
+| The One Finder       | Next.js, Tailwind CSS | MongoDB, Fast API, Node.js                    | Recommender                                                 |    [![Live](https://img.shields.io/badge/Live-172033?style=flat-square&logo=vercel&logoColor=E3A857)](https://the-one-finder.vercel.app/)     |  [![Code](https://img.shields.io/badge/Code-172033?style=flat-square&logo=github&logoColor=EAE7DB)](https://github.com/Archit1706/The-One-Finder)   |
+| Social Vision        | Next.js, Tailwind CSS | MongoDB, Fast API                             | Recommender, WordCloud, Sentiment Analysis, Twitter Dataset | [![Live](https://img.shields.io/badge/Live-172033?style=flat-square&logo=vercel&logoColor=E3A857)](https://network-analysis-weld.vercel.app/) |   [![Code](https://img.shields.io/badge/Code-172033?style=flat-square&logo=github&logoColor=EAE7DB)](https://github.com/Archit1706/SocialVision)    |
 
 </details>
 
@@ -332,24 +309,24 @@ _When I'm not building, I'm reading, traveling somewhere new, or lost in a logic
 
 | Web App                 | Front End                              | Back End                              |                           Live Demo                           |                                 Repo                                 |
 | ----------------------- | -------------------------------------- | ------------------------------------- | :----------------------------------------------------------: | :---------------------------------------------------------------------: |
-| Chatzy                  | Next.js, Tailwind CSS, Typescript      | Express.js, Node.js, DiceBear API     |            [![Live](https://img.shields.io/badge/Live-2563EB?style=flat-square&logo=render&logoColor=white)](https://chatzy-24x7.onrender.com/)            |               [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/Chatzy)                |
-| RealEstate360           | Next.js, Tailwind CSS, Grunt, Three.js | MongoDB, Cloudinary, Node.js, FastAPI |          [![Live](https://img.shields.io/badge/Live-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://realestate360.vercel.app/)           |            [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/RealEstate360)            |
-| Bid Bazaar              | Next.js, Tailwind CSS                  | MongoDB, Cloudinary, Node.js, Flask   |             [![Live](https://img.shields.io/badge/Live-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://bid-bazaar.vercel.app/)             |          [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/TIAA-Hackathon)           |
-| Coupon Vault            | Next.js, Tailwind CSS                  | MongoDB, Fast API, Node.js            |            [![Live](https://img.shields.io/badge/Live-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://coupon-vault.vercel.app/)            |            [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/Coupon-Vault)             |
-| Power Up                | React, Tailwind CSS                    | Node.js, MongoDB, API's               |            [![Live](https://img.shields.io/badge/Live-2563EB?style=flat-square&logo=replit&logoColor=white)](https://powerup.sidd065.repl.co/)            |               [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/PowerUp)               |
-| First Paper             | Next.js, Tailwind CSS                  | ArXiv Dataset                         |            [![Live](https://img.shields.io/badge/Live-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://first-paper.vercel.app/)             |             [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/First-Paper)             |
-| Moviescape              | React, Tailwind CSS                    | TMDB                                  |            [![Live](https://img.shields.io/badge/Live-2563EB?style=flat-square&logo=netlify&logoColor=white)](https://moviescape.netlify.app/)             |              [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/Movie-App)              |
-| Edu-Sys                 | React, Tailwind CSS                    | Node.js, MongoDB                      |            [![Live](https://img.shields.io/badge/Live-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://edusys-tsec.vercel.app/)             |          [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/EduSys-Frontend)          |
-| Healthy Me!             | React, Tailwind CSS                    | Node JS, MongoDB                      |                              -                               | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/Codeissance_22_Keyboard-Interrupt) |
-| To Do App               | React, CSS                             | Node.js, MongoDB                      |      [![Live](https://img.shields.io/badge/Live-2563EB?style=flat-square&logo=netlify&logoColor=white)](https://calm-profiterole-70f2a5.netlify.app/)      |              [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/Todo-App)               |
-| Emoji Nation            | React, CSS                             | API                                   |          [![Live](https://img.shields.io/badge/Live-2563EB?style=flat-square&logo=netlify&logoColor=white)](https://emoji-nation.netlify.app/)           |            [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/Emoji-Nation)             |
-| Daily Newsletter Signup | HTML, CSS, Bootstrap, JS               | Node.js                               |      [![Live](https://img.shields.io/badge/Live-2563EB?style=flat-square&logo=heroku&logoColor=white)](https://salty-hollows-02401.herokuapp.com/)      |      [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/Daily-Newsletter-Signup)      |
-| Personal Blog           | HTML, CSS, JS                          | Node.js (Express, EJS)                |      [![Live](https://img.shields.io/badge/Live-2563EB?style=flat-square&logo=replit&logoColor=white)](https://personal-blog.architrathod1.repl.co/)      |            [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/Personal-Blog)            |
-| Weather Today           | HTML, CSS, JS                          | Node.js                               |      [![Live](https://img.shields.io/badge/Live-2563EB?style=flat-square&logo=replit&logoColor=white)](https://weather-today.architrathod1.repl.co/)      |            [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/Weather-Today)            |
-| Simon Game              | HTML, CSS, JS                          | -                                     |      [![Live](https://img.shields.io/badge/Live-2563EB?style=flat-square&logo=githubpages&logoColor=white)](https://archit1706.github.io/The-Simon-Game/)      |          [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/The-Simon-Game)           |
-| Image Gallery App       | HTML, CSS, JS                          | LocalStorage                          |        [![Live](https://img.shields.io/badge/Live-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://image-gallery-upload.vercel.app/)        |         [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/Image-Gallery-App)         |
-| Random Quote Generator  | HTML, CSS, JS                          | -                                     | [![Live](https://img.shields.io/badge/Live-2563EB?style=flat-square&logo=githubpages&logoColor=white)](https://archit1706.github.io/Random-Quote-Generator/) |      [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/Random-Quote-Generator)       |
-| Simple Calculator       | HTML, CSS, JS, jQuery                  | -                                     |   [![Live](https://img.shields.io/badge/Live-2563EB?style=flat-square&logo=githubpages&logoColor=white)](https://archit1706.github.io/Simple-Calculator/)    |         [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/Simple-Calculator)         |
+| Chatzy                  | Next.js, Tailwind CSS, Typescript      | Express.js, Node.js, DiceBear API     |            [![Live](https://img.shields.io/badge/Live-172033?style=flat-square&logo=render&logoColor=E3A857)](https://chatzy-24x7.onrender.com/)            |               [![Code](https://img.shields.io/badge/Code-172033?style=flat-square&logo=github&logoColor=EAE7DB)](https://github.com/Archit1706/Chatzy)                |
+| RealEstate360           | Next.js, Tailwind CSS, Grunt, Three.js | MongoDB, Cloudinary, Node.js, FastAPI |          [![Live](https://img.shields.io/badge/Live-172033?style=flat-square&logo=vercel&logoColor=E3A857)](https://realestate360.vercel.app/)           |            [![Code](https://img.shields.io/badge/Code-172033?style=flat-square&logo=github&logoColor=EAE7DB)](https://github.com/Archit1706/RealEstate360)            |
+| Bid Bazaar              | Next.js, Tailwind CSS                  | MongoDB, Cloudinary, Node.js, Flask   |             [![Live](https://img.shields.io/badge/Live-172033?style=flat-square&logo=vercel&logoColor=E3A857)](https://bid-bazaar.vercel.app/)             |          [![Code](https://img.shields.io/badge/Code-172033?style=flat-square&logo=github&logoColor=EAE7DB)](https://github.com/Archit1706/TIAA-Hackathon)           |
+| Coupon Vault            | Next.js, Tailwind CSS                  | MongoDB, Fast API, Node.js            |            [![Live](https://img.shields.io/badge/Live-172033?style=flat-square&logo=vercel&logoColor=E3A857)](https://coupon-vault.vercel.app/)            |            [![Code](https://img.shields.io/badge/Code-172033?style=flat-square&logo=github&logoColor=EAE7DB)](https://github.com/Archit1706/Coupon-Vault)             |
+| Power Up                | React, Tailwind CSS                    | Node.js, MongoDB, API's               |            [![Live](https://img.shields.io/badge/Live-172033?style=flat-square&logo=replit&logoColor=E3A857)](https://powerup.sidd065.repl.co/)            |               [![Code](https://img.shields.io/badge/Code-172033?style=flat-square&logo=github&logoColor=EAE7DB)](https://github.com/Archit1706/PowerUp)               |
+| First Paper             | Next.js, Tailwind CSS                  | ArXiv Dataset                         |            [![Live](https://img.shields.io/badge/Live-172033?style=flat-square&logo=vercel&logoColor=E3A857)](https://first-paper.vercel.app/)             |             [![Code](https://img.shields.io/badge/Code-172033?style=flat-square&logo=github&logoColor=EAE7DB)](https://github.com/Archit1706/First-Paper)             |
+| Moviescape              | React, Tailwind CSS                    | TMDB                                  |            [![Live](https://img.shields.io/badge/Live-172033?style=flat-square&logo=netlify&logoColor=E3A857)](https://moviescape.netlify.app/)             |              [![Code](https://img.shields.io/badge/Code-172033?style=flat-square&logo=github&logoColor=EAE7DB)](https://github.com/Archit1706/Movie-App)              |
+| Edu-Sys                 | React, Tailwind CSS                    | Node.js, MongoDB                      |            [![Live](https://img.shields.io/badge/Live-172033?style=flat-square&logo=vercel&logoColor=E3A857)](https://edusys-tsec.vercel.app/)             |          [![Code](https://img.shields.io/badge/Code-172033?style=flat-square&logo=github&logoColor=EAE7DB)](https://github.com/Archit1706/EduSys-Frontend)          |
+| Healthy Me!             | React, Tailwind CSS                    | Node JS, MongoDB                      |                              -                               | [![Code](https://img.shields.io/badge/Code-172033?style=flat-square&logo=github&logoColor=EAE7DB)](https://github.com/Archit1706/Codeissance_22_Keyboard-Interrupt) |
+| To Do App               | React, CSS                             | Node.js, MongoDB                      |      [![Live](https://img.shields.io/badge/Live-172033?style=flat-square&logo=netlify&logoColor=E3A857)](https://calm-profiterole-70f2a5.netlify.app/)      |              [![Code](https://img.shields.io/badge/Code-172033?style=flat-square&logo=github&logoColor=EAE7DB)](https://github.com/Archit1706/Todo-App)               |
+| Emoji Nation            | React, CSS                             | API                                   |          [![Live](https://img.shields.io/badge/Live-172033?style=flat-square&logo=netlify&logoColor=E3A857)](https://emoji-nation.netlify.app/)           |            [![Code](https://img.shields.io/badge/Code-172033?style=flat-square&logo=github&logoColor=EAE7DB)](https://github.com/Archit1706/Emoji-Nation)             |
+| Daily Newsletter Signup | HTML, CSS, Bootstrap, JS               | Node.js                               |      [![Live](https://img.shields.io/badge/Live-172033?style=flat-square&logo=heroku&logoColor=E3A857)](https://salty-hollows-02401.herokuapp.com/)      |      [![Code](https://img.shields.io/badge/Code-172033?style=flat-square&logo=github&logoColor=EAE7DB)](https://github.com/Archit1706/Daily-Newsletter-Signup)      |
+| Personal Blog           | HTML, CSS, JS                          | Node.js (Express, EJS)                |      [![Live](https://img.shields.io/badge/Live-172033?style=flat-square&logo=replit&logoColor=E3A857)](https://personal-blog.architrathod1.repl.co/)      |            [![Code](https://img.shields.io/badge/Code-172033?style=flat-square&logo=github&logoColor=EAE7DB)](https://github.com/Archit1706/Personal-Blog)            |
+| Weather Today           | HTML, CSS, JS                          | Node.js                               |      [![Live](https://img.shields.io/badge/Live-172033?style=flat-square&logo=replit&logoColor=E3A857)](https://weather-today.architrathod1.repl.co/)      |            [![Code](https://img.shields.io/badge/Code-172033?style=flat-square&logo=github&logoColor=EAE7DB)](https://github.com/Archit1706/Weather-Today)            |
+| Simon Game              | HTML, CSS, JS                          | -                                     |      [![Live](https://img.shields.io/badge/Live-172033?style=flat-square&logo=githubpages&logoColor=E3A857)](https://archit1706.github.io/The-Simon-Game/)      |          [![Code](https://img.shields.io/badge/Code-172033?style=flat-square&logo=github&logoColor=EAE7DB)](https://github.com/Archit1706/The-Simon-Game)           |
+| Image Gallery App       | HTML, CSS, JS                          | LocalStorage                          |        [![Live](https://img.shields.io/badge/Live-172033?style=flat-square&logo=vercel&logoColor=E3A857)](https://image-gallery-upload.vercel.app/)        |         [![Code](https://img.shields.io/badge/Code-172033?style=flat-square&logo=github&logoColor=EAE7DB)](https://github.com/Archit1706/Image-Gallery-App)         |
+| Random Quote Generator  | HTML, CSS, JS                          | -                                     | [![Live](https://img.shields.io/badge/Live-172033?style=flat-square&logo=githubpages&logoColor=E3A857)](https://archit1706.github.io/Random-Quote-Generator/) |      [![Code](https://img.shields.io/badge/Code-172033?style=flat-square&logo=github&logoColor=EAE7DB)](https://github.com/Archit1706/Random-Quote-Generator)       |
+| Simple Calculator       | HTML, CSS, JS, jQuery                  | -                                     |   [![Live](https://img.shields.io/badge/Live-172033?style=flat-square&logo=githubpages&logoColor=E3A857)](https://archit1706.github.io/Simple-Calculator/)    |         [![Code](https://img.shields.io/badge/Code-172033?style=flat-square&logo=github&logoColor=EAE7DB)](https://github.com/Archit1706/Simple-Calculator)         |
 
 </details>
 
@@ -360,17 +337,17 @@ _When I'm not building, I'm reading, traveling somewhere new, or lost in a logic
 
 | Python App               | Concept / Libraries Used |                                Demo                                |                                Repo                                |
 | ------------------------ | ------------------------ | :----------------------------------------------------------------: | :--------------------------------------------------------------------: |
-| Background Image Remover | Flask, HTML, Rembg       |                                -                               |             [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/BG-Remover)             |
-| Cold Emailing            | Flask, HTML              |        [![Live](https://img.shields.io/badge/Live-2563EB?style=flat-square&logo=replit&logoColor=white)](https://cold-emailing.architrathod1.repl.co/)        |          [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/Cold-Emailing)           |
-| GRE Words App            | OOPS, Pandas, Tkinter    |    [![Live](https://img.shields.io/badge/Live-2563EB?style=flat-square&logo=replit&logoColor=white)](https://replit.com/@ArchitRathod1/GRE-Words-Practice)    |        [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/GRE-Words-Practice)        |
-| Pong Game                | OOPS, Tkinter            |        [![Live](https://img.shields.io/badge/Live-2563EB?style=flat-square&logo=replit&logoColor=white)](https://replit.com/@ArchitRathod1/Pong-Game)         |             [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/Pong-Game)              |
-| Indian States Game       | Tkinter, Pandas          |    [![Live](https://img.shields.io/badge/Live-2563EB?style=flat-square&logo=replit&logoColor=white)](https://replit.com/@ArchitRathod1/India-States-Game)     |        [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/India-States-Game)         |
-| Snake Game               | OOPS, Tkinter            |        [![Live](https://img.shields.io/badge/Live-2563EB?style=flat-square&logo=replit&logoColor=white)](https://replit.com/@ArchitRathod1/Snake-Game)        |             [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/SnakeGame)              |
-| Pomodoro Technique Timer | Tkinter                  | [![Live](https://img.shields.io/badge/Live-2563EB?style=flat-square&logo=replit&logoColor=white)](https://replit.com/@ArchitRathod1/Pomodoro-Technique-Timer) |      [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/Pomodoro-Technique-Timer)      |
-| Proctor It!              | OpenCV, Tkinter, MySQL   |                                 -                                  | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/PROCTOR_IT-A-Virtual-Invigilator) |
-| Mail Merger              | File Handling            |                              -                              |            [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/Mail-Merger)             |
-| NATO Alphabet Generator  | Pandas                   |                                 -                                  |      [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/NATO-Phonetics-Generator)      |
-| Hirst Painting           | Tkinter                  |      [![Live](https://img.shields.io/badge/Live-2563EB?style=flat-square&logo=replit&logoColor=white)](https://replit.com/@ArchitRathod1/Hirst-Painting)      |          [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/Hirst-Painting)          |
+| Background Image Remover | Flask, HTML, Rembg       |                                -                               |             [![Code](https://img.shields.io/badge/Code-172033?style=flat-square&logo=github&logoColor=EAE7DB)](https://github.com/Archit1706/BG-Remover)             |
+| Cold Emailing            | Flask, HTML              |        [![Live](https://img.shields.io/badge/Live-172033?style=flat-square&logo=replit&logoColor=E3A857)](https://cold-emailing.architrathod1.repl.co/)        |          [![Code](https://img.shields.io/badge/Code-172033?style=flat-square&logo=github&logoColor=EAE7DB)](https://github.com/Archit1706/Cold-Emailing)           |
+| GRE Words App            | OOPS, Pandas, Tkinter    |    [![Live](https://img.shields.io/badge/Live-172033?style=flat-square&logo=replit&logoColor=E3A857)](https://replit.com/@ArchitRathod1/GRE-Words-Practice)    |        [![Code](https://img.shields.io/badge/Code-172033?style=flat-square&logo=github&logoColor=EAE7DB)](https://github.com/Archit1706/GRE-Words-Practice)        |
+| Pong Game                | OOPS, Tkinter            |        [![Live](https://img.shields.io/badge/Live-172033?style=flat-square&logo=replit&logoColor=E3A857)](https://replit.com/@ArchitRathod1/Pong-Game)         |             [![Code](https://img.shields.io/badge/Code-172033?style=flat-square&logo=github&logoColor=EAE7DB)](https://github.com/Archit1706/Pong-Game)              |
+| Indian States Game       | Tkinter, Pandas          |    [![Live](https://img.shields.io/badge/Live-172033?style=flat-square&logo=replit&logoColor=E3A857)](https://replit.com/@ArchitRathod1/India-States-Game)     |        [![Code](https://img.shields.io/badge/Code-172033?style=flat-square&logo=github&logoColor=EAE7DB)](https://github.com/Archit1706/India-States-Game)         |
+| Snake Game               | OOPS, Tkinter            |        [![Live](https://img.shields.io/badge/Live-172033?style=flat-square&logo=replit&logoColor=E3A857)](https://replit.com/@ArchitRathod1/Snake-Game)        |             [![Code](https://img.shields.io/badge/Code-172033?style=flat-square&logo=github&logoColor=EAE7DB)](https://github.com/Archit1706/SnakeGame)              |
+| Pomodoro Technique Timer | Tkinter                  | [![Live](https://img.shields.io/badge/Live-172033?style=flat-square&logo=replit&logoColor=E3A857)](https://replit.com/@ArchitRathod1/Pomodoro-Technique-Timer) |      [![Code](https://img.shields.io/badge/Code-172033?style=flat-square&logo=github&logoColor=EAE7DB)](https://github.com/Archit1706/Pomodoro-Technique-Timer)      |
+| Proctor It!              | OpenCV, Tkinter, MySQL   |                                 -                                  | [![Code](https://img.shields.io/badge/Code-172033?style=flat-square&logo=github&logoColor=EAE7DB)](https://github.com/Archit1706/PROCTOR_IT-A-Virtual-Invigilator) |
+| Mail Merger              | File Handling            |                              -                              |            [![Code](https://img.shields.io/badge/Code-172033?style=flat-square&logo=github&logoColor=EAE7DB)](https://github.com/Archit1706/Mail-Merger)             |
+| NATO Alphabet Generator  | Pandas                   |                                 -                                  |      [![Code](https://img.shields.io/badge/Code-172033?style=flat-square&logo=github&logoColor=EAE7DB)](https://github.com/Archit1706/NATO-Phonetics-Generator)      |
+| Hirst Painting           | Tkinter                  |      [![Live](https://img.shields.io/badge/Live-172033?style=flat-square&logo=replit&logoColor=E3A857)](https://replit.com/@ArchitRathod1/Hirst-Painting)      |          [![Code](https://img.shields.io/badge/Code-172033?style=flat-square&logo=github&logoColor=EAE7DB)](https://github.com/Archit1706/Hirst-Painting)          |
 
 </details>
 
@@ -381,7 +358,7 @@ _When I'm not building, I'm reading, traveling somewhere new, or lost in a logic
 
 | Desktop App                | Concept / Libraries Used |                                        Repo                                        |
 | -------------------------- | ------------------------ | :--------------------------------------------------------------------------------: |
-| Electricity Billing System | Java Swing               | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/Electricity-Billing-System-Mini-Project-Sem3) |
+| Electricity Billing System | Java Swing               | [![Code](https://img.shields.io/badge/Code-172033?style=flat-square&logo=github&logoColor=EAE7DB)](https://github.com/Archit1706/Electricity-Billing-System-Mini-Project-Sem3) |
 
 </details>
 
@@ -390,25 +367,25 @@ _When I'm not building, I'm reading, traveling somewhere new, or lost in a logic
 
 <div align="center"><img src="assets/divider.svg" width="70%" alt="" /></div>
 
-## Research & Publications
+## 06 · Research & publications
 
 9 papers and preprints across software engineering, ML fairness, and AI safety, including peer-reviewed work at **ASE 2026**, a **NeurIPS 2023** workshop, and **Springer** book chapters.
 
 | Publication | Venue | Year | Links |
 | ----------- | ----- | :--: | :---: |
-| **FairLint-DL: An IDE-Native Tool for Fairness Debugging of Deep Learning Software** | ASE 2026 (accepted) | 2026 | [![Demo](https://img.shields.io/badge/Demo-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/AmfpjK24uwY) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Archit1706/FairLint-DL) |
-| **Auditing Discriminatory Patterns in Mortgage Lending Through Association Rules and Fair Binning** | arXiv · cs.CY / cs.DB / cs.LG | 2026 | [![arXiv](https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2606.12435) |
+| **FairLint-DL: An IDE-Native Tool for Fairness Debugging of Deep Learning Software** | ASE 2026 (accepted) | 2026 | [![Demo](https://img.shields.io/badge/Demo-172033?style=flat-square&logo=youtube&logoColor=E3A857)](https://youtu.be/AmfpjK24uwY) [![Code](https://img.shields.io/badge/Code-172033?style=flat-square&logo=github&logoColor=EAE7DB)](https://github.com/Archit1706/FairLint-DL) |
+| **Auditing Discriminatory Patterns in Mortgage Lending Through Association Rules and Fair Binning** | arXiv · cs.CY / cs.DB / cs.LG | 2026 | [![arXiv](https://img.shields.io/badge/arXiv-172033?style=flat-square&logo=arxiv&logoColor=E3A857)](https://arxiv.org/abs/2606.12435) |
 | **Responsible AI for Scientific Discovery: Explainability for Galaxy Morphology Classification** | UIC Technical Report (submitted to SKAI 2026) | 2026 | |
-| **Measuring and Mitigating Toxicity in Large Language Models: A Comprehensive Replication Study** | UIC Technical Report | 2025 | [![arXiv](https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2605.14087) |
+| **Measuring and Mitigating Toxicity in Large Language Models: A Comprehensive Replication Study** | UIC Technical Report | 2025 | [![arXiv](https://img.shields.io/badge/arXiv-172033?style=flat-square&logo=arxiv&logoColor=E3A857)](https://arxiv.org/abs/2605.14087) |
 | **Coordinated Amplification and Misinformation Detection in Global YouTube Conflict Narratives** | UIC · CS 418 | 2025 | |
 | **Benchmarking Algorithms for Heterogeneous Treatment Effect Estimation in Networks** | UIC Technical Report | 2024 | |
-| **Ascend.AI: Facial Expression, Tone, and Pitch Analysis with Chatbot Guidance** | ICDSA 2024 · Springer (peer-reviewed) | 2024 | [![Springer](https://img.shields.io/badge/Springer-1F4E79?style=flat-square&logo=springer&logoColor=white)](https://link.springer.com/chapter/10.1007/978-981-96-1185-0_6) |
-| **Multiagent Simulators for Social Networks** | NeurIPS 2023 · MASec Workshop (peer-reviewed) | 2023 | [![OpenReview](https://img.shields.io/badge/OpenReview-8B1A1A?style=flat-square)](https://openreview.net/forum?id=eL61LbI4uv) |
-| **Leveraging CNNs and Ensemble Learning for Automated Disaster Image Classification** | ICSISCET 2023 · Springer (peer-reviewed) | 2023 | [![Springer](https://img.shields.io/badge/Springer-1F4E79?style=flat-square&logo=springer&logoColor=white)](https://link.springer.com/chapter/10.1007/978-981-97-0327-2_23) |
+| **Ascend.AI: Facial Expression, Tone, and Pitch Analysis with Chatbot Guidance** | ICDSA 2024 · Springer (peer-reviewed) | 2024 | [![Springer](https://img.shields.io/badge/Springer-172033?style=flat-square&logo=springer&logoColor=E3A857)](https://link.springer.com/chapter/10.1007/978-981-96-1185-0_6) |
+| **Multiagent Simulators for Social Networks** | NeurIPS 2023 · MASec Workshop (peer-reviewed) | 2023 | [![OpenReview](https://img.shields.io/badge/OpenReview-172033?style=flat-square)](https://openreview.net/forum?id=eL61LbI4uv) |
+| **Leveraging CNNs and Ensemble Learning for Automated Disaster Image Classification** | ICSISCET 2023 · Springer (peer-reviewed) | 2023 | [![Springer](https://img.shields.io/badge/Springer-172033?style=flat-square&logo=springer&logoColor=E3A857)](https://link.springer.com/chapter/10.1007/978-981-97-0327-2_23) |
 
 <div align="center"><img src="assets/divider.svg" width="70%" alt="" /></div>
 
-## Education
+## 07 · Education
 
 | Institution | Degree | Period | Highlights |
 | ----------- | ------ | ------ | ---------- |
@@ -417,46 +394,46 @@ _When I'm not building, I'm reading, traveling somewhere new, or lost in a logic
 
 <div align="center"><img src="assets/divider.svg" width="70%" alt="" /></div>
 
-## By the numbers
+## 08 · By the numbers
 
 <div align="center">
 
 <a href="https://github.com/Archit1706">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Archit1706&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Archit's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Archit1706&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0a0e1a&title_color=e3a857&text_color=a9a496&icon_color=8fd6c5&ring_color=e3a857" alt="Archit's GitHub stats" />
 </a>
 <a href="https://github.com/Archit1706">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archit1706&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archit1706&layout=compact&hide_border=true&langs_count=8&bg_color=0a0e1a&title_color=e3a857&text_color=eae7db" alt="Top languages" />
 </a>
 
 <br/>
 
 <a href="https://github.com/Archit1706">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Archit1706&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Archit1706&hide_border=true&background=0a0e1a&ring=e3a857&fire=f0bd72&currStreakNum=eae7db&sideNums=eae7db&currStreakLabel=a9a496&sideLabels=a9a496&dates=716e64&stroke=172033" alt="GitHub streak" />
 </a>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Archit1706&theme=react-dark&hide_border=true&area=true" alt="Contribution activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Archit1706&hide_border=true&bg_color=0a0e1a&color=a9a496&line=e3a857&point=eae7db&area=true&area_color=e3a857&title_color=eae7db" alt="Contribution activity graph" />
 
 </div>
 
 <div align="center"><img src="assets/divider.svg" width="70%" alt="" /></div>
 
-## Let's connect
+## 09 · Correspondence
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://architr.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/archit-rathod)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=dgd_6_8AAAAJ&hl=en)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arath21@uic.edu)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ArchitRathod_17)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/795287895681925151/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-172033?style=flat-square&logo=vercel&logoColor=E3A857)](https://architr.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-172033?style=flat-square&logo=linkedin&logoColor=E3A857)](https://www.linkedin.com/in/archit-rathod)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-172033?style=flat-square&logo=googlescholar&logoColor=E3A857)](https://scholar.google.com/citations?user=dgd_6_8AAAAJ&hl=en)
+[![Email](https://img.shields.io/badge/Email-172033?style=flat-square&logo=gmail&logoColor=E3A857)](mailto:arath21@uic.edu)
+[![X](https://img.shields.io/badge/X-172033?style=flat-square&logo=x&logoColor=E3A857)](https://twitter.com/ArchitRathod_17)
+[![Discord](https://img.shields.io/badge/Discord-172033?style=flat-square&logo=discord&logoColor=E3A857)](https://discordapp.com/users/795287895681925151/)
 
 <br/>
 
 **Open to Software Engineering, AI/ML, and Full-Stack roles starting 2026. Let's build something that matters.**
 
-</div>
+<img src="assets/footer-atlas.svg" width="100%" alt="Surveyed and maintained by Archit Rathod · Chicago, IL" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2563EB&height=120&section=footer" alt="" width="100%" />
+</div>

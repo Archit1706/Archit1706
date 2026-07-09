@@ -1,16 +1,21 @@
-<svg width="1200" height="48" viewBox="0 0 1200 48" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="dg" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#2563eb" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#7c3aed" stop-opacity="1"/>
-      <stop offset="1" stop-color="#2563eb" stop-opacity="0"/>
-    </linearGradient>
-  </defs>
-  <path id="wave" d="M0 24 Q 150 6 300 24 T 600 24 T 900 24 T 1200 24" fill="none" stroke="url(#dg)" stroke-width="3" stroke-dasharray="9 11">
-    <animate attributeName="stroke-dashoffset" values="0;-40" dur="3s" repeatCount="indefinite"/>
-  </path>
-  <circle r="6" fill="#7c3aed">
-    <animate attributeName="opacity" values="0.4;1;0.4" dur="2s" repeatCount="indefinite"/>
-    <animateMotion dur="7s" repeatCount="indefinite" path="M0 24 Q 150 6 300 24 T 600 24 T 900 24 T 1200 24"/>
-  </circle>
+<svg width="1200" height="36" viewBox="0 0 1200 36" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+  <!-- MIDNIGHT ATLAS · surveyor's divider -->
+  <line x1="0" y1="18" x2="560" y2="18" stroke="#a9a496" stroke-opacity="0.28" stroke-width="1"/>
+  <line x1="640" y1="18" x2="1200" y2="18" stroke="#a9a496" stroke-opacity="0.28" stroke-width="1"/>
+
+  <!-- survey ticks -->
+  <g stroke="#a9a496" stroke-opacity="0.35" stroke-width="1">
+    <path d="M100 14v8M220 15.5v5M340 14v8M460 15.5v5M740 15.5v5M860 14v8M980 15.5v5M1100 14v8"/>
+  </g>
+
+  <!-- route dash flowing along the line -->
+  <line x1="0" y1="18" x2="560" y2="18" stroke="#e3a857" stroke-opacity="0.55" stroke-width="1" stroke-dasharray="7 110">
+    <animate attributeName="stroke-dashoffset" values="0;-234" dur="9s" repeatCount="indefinite"/>
+  </line>
+  <line x1="640" y1="18" x2="1200" y2="18" stroke="#e3a857" stroke-opacity="0.55" stroke-width="1" stroke-dasharray="7 110">
+    <animate attributeName="stroke-dashoffset" values="0;-234" dur="9s" begin="4.5s" repeatCount="indefinite"/>
+  </line>
+
+  <!-- center mark -->
+  <text x="600" y="24" text-anchor="middle" font-family="Georgia, serif" font-size="17" fill="#e3a857">✦<animate attributeName="opacity" values="0.55;1;0.55" dur="4s" repeatCount="indefinite"/></text>
 </svg>

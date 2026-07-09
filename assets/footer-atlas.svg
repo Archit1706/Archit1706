@@ -1,0 +1,26 @@
+<svg width="1200" height="130" viewBox="0 0 1200 130" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Surveyed and maintained by Archit Rathod, Chicago, Illinois">
+  <!-- MIDNIGHT ATLAS · footer -->
+  <rect width="1200" height="130" fill="#0a0e1a"/>
+
+  <!-- rising contours -->
+  <g fill="none" stroke="#8fd6c5" stroke-opacity="0.10" stroke-width="1">
+    <path d="M0 118 C 180 92, 340 108, 520 88 C 700 68, 880 92, 1040 74 C 1110 66, 1160 70, 1200 62"/>
+    <path d="M0 128 C 200 108, 380 122, 560 104 C 740 88, 920 108, 1080 92 C 1130 86, 1170 88, 1200 82"/>
+  </g>
+  <path d="M0 106 C 190 78, 360 96, 540 74 C 720 54, 900 78, 1060 58 C 1120 50, 1170 54, 1200 44" fill="none" stroke="#e3a857" stroke-opacity="0.25" stroke-width="1" stroke-dasharray="5 7">
+    <animate attributeName="stroke-dashoffset" values="0;-120" dur="14s" repeatCount="indefinite"/>
+  </path>
+
+  <line x1="44" y1="30" x2="1156" y2="30" stroke="#eae7db" stroke-opacity="0.14" stroke-width="1"/>
+
+  <text x="46" y="62" font-family="Consolas, 'DejaVu Sans Mono', Menlo, monospace" font-size="14" letter-spacing="2" fill="#716e64">SURVEYED <tspan fill="#e3a857">&amp;</tspan> MAINTAINED BY ARCHIT RATHOD</text>
+  <text x="1154" y="62" text-anchor="end" font-family="Consolas, 'DejaVu Sans Mono', Menlo, monospace" font-size="14" letter-spacing="2" fill="#716e64">CHICAGO, IL · 41.8781°N <tspan fill="#e3a857">✦</tspan></text>
+  <text x="600" y="62" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="17" font-style="italic" fill="#a9a496">fin.</text>
+
+  <!-- beacon -->
+  <circle cx="600" cy="96" r="2.5" fill="#e3a857"/>
+  <circle cx="600" cy="96" r="2.5" fill="none" stroke="#e3a857" stroke-width="1">
+    <animate attributeName="r" values="3;16" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-opacity" values="0.6;0" dur="3s" repeatCount="indefinite"/>
+  </circle>
+</svg>

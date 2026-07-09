@@ -1,0 +1,15 @@
+<svg width="1200" height="54" viewBox="0 0 1200 54" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Open to software engineering, AI/ML, and full-stack roles starting 2026">
+  <!-- MIDNIGHT ATLAS · status strip -->
+  <rect x="0.5" y="0.5" width="1199" height="53" fill="#101626" stroke="#eae7db" stroke-opacity="0.12"/>
+  <rect x="0.5" y="0.5" width="3" height="53" fill="#e3a857"/>
+
+  <!-- pulsing beacon -->
+  <circle cx="38" cy="27" r="4" fill="#e3a857"/>
+  <circle cx="38" cy="27" r="4" fill="none" stroke="#e3a857" stroke-width="1">
+    <animate attributeName="r" values="4;13" dur="2.2s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-opacity" values="0.7;0" dur="2.2s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="64" y="32" font-family="Consolas, 'DejaVu Sans Mono', Menlo, monospace" font-size="14.5" letter-spacing="2.5" fill="#eae7db">OPEN TO SOFTWARE ENGINEERING · AI/ML · FULL-STACK ROLES <tspan fill="#e3a857">·</tspan> <tspan fill="#e3a857">2026</tspan></text>
+  <text x="1162" y="32" text-anchor="end" font-family="Consolas, 'DejaVu Sans Mono', Menlo, monospace" font-size="14" letter-spacing="1.5" fill="#716e64">ARATH21@UIC.EDU ↗</text>
+</svg>
