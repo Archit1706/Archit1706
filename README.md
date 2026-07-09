@@ -31,6 +31,7 @@ I build systems that are **measurably correct** and **demonstrably fair**, from 
 
 ## 02 · Current waypoints
 
+- **TaxMR** at UIC's RISC Lab: a metamorphic robustness benchmark for tax-answering LLMs, as ML research engineer under Prof. Saeid Tizpaz-Niari.
 - **Freight Toolkit** at UIC's Urban Transportation Center: freight analytics for 285+ municipalities.
 - **Google Summer of Code 2025**, completed: a road-closures API adopted by the OpenStreetMap Foundation.
 - **Production ML**: GalaxyServe (MLOps), GalaxyOps (Kubernetes GitOps), TransitLake (Dagster lakehouse).
@@ -393,21 +394,6 @@ I build systems that are **measurably correct** and **demonstrably fair**, from 
 ## 08 · By the numbers
 
 <div align="center">
-
-<a href="https://github.com/Archit1706">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Archit1706&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0a0e1a&title_color=e3a857&text_color=d8d3c5&icon_color=8fd6c5&ring_color=e3a857" alt="Archit's GitHub stats" />
-</a>
-<a href="https://github.com/Archit1706">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archit1706&layout=compact&hide_border=true&langs_count=8&bg_color=0a0e1a&title_color=e3a857&text_color=eae7db" alt="Top languages" />
-</a>
-
-<br/>
-
-<a href="https://github.com/Archit1706">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Archit1706&hide_border=true&background=0a0e1a&ring=e3a857&fire=f0bd72&currStreakNum=eae7db&sideNums=eae7db&currStreakLabel=d8d3c5&sideLabels=d8d3c5&dates=b3ae9f&stroke=172033" alt="GitHub streak" />
-</a>
-
-<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Archit1706&hide_border=true&bg_color=0a0e1a&color=d8d3c5&line=e3a857&point=eae7db&area=true&area_color=e3a857&title_color=eae7db" alt="Contribution activity graph" />
 
