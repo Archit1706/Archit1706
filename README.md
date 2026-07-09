@@ -16,29 +16,25 @@
 
 ## 01 · The brief
 
-I'm a software engineer and researcher who builds systems that are **measurably correct** and **demonstrably fair**, from OpenStreetMap road closures at city scale to fairness auditing for deep models.
+I build systems that are **measurably correct** and **demonstrably fair**, from OpenStreetMap road closures at city scale to fairness auditing for deep models.
 
-Recent waypoints:
-
-&nbsp;&nbsp;**▸ Shipped** a Google Summer of Code API now used by the **OpenStreetMap** community<br/>
-&nbsp;&nbsp;**▸ Built** the first **GitLab Duo Agent** implementing Green Software Foundation standards<br/>
-&nbsp;&nbsp;**▸ Engineered** geospatial pipelines processing **300GB+** of freight data across **285+ municipalities**<br/>
-&nbsp;&nbsp;**▸ Published** 9 papers and reports across software engineering, ML fairness, and AI safety (**ASE 2026**, a **NeurIPS 2023** workshop, **Springer ×2**)
-
-I work across the whole stack: React/Next.js front ends, FastAPI services, cloud infrastructure, and the ML models in between. The current focus is responsible AI, algorithmic fairness, and geospatial data systems. Fast and scalable is table stakes; I care that systems are also **accountable**.
+&nbsp;&nbsp;**▸ Shipped** a Google Summer of Code API, now used by the **OpenStreetMap** community<br/>
+&nbsp;&nbsp;**▸ Built** the first **GitLab Duo Agent** on Green Software Foundation standards<br/>
+&nbsp;&nbsp;**▸ Engineered** freight-data pipelines covering **285+ Chicago municipalities**<br/>
+&nbsp;&nbsp;**▸ Published** at **ASE 2026**, a **NeurIPS 2023** workshop, and **Springer ×2**
 
 <div align="center"><img src="assets/field-notes.svg" width="100%" alt="Field notes: 9 publications and reports, 40+ projects, 285+ municipalities served, 8.5M+ OD pairs processed, 103,481 applications audited, 5+ years shipping" /></div>
 
-> **Looking for full-time Software Engineering, AI/ML, and Full-Stack roles starting 2026.** &nbsp; [Start a conversation ↗](https://architr.vercel.app/#contact)
+> Hiring for 2026? &nbsp;[**Start a conversation ↗**](https://architr.vercel.app/#contact)
 
 ---
 
 ## 02 · Current waypoints
 
-- **Research Assistant** at UIC's **Urban Transportation Center**, building **Freight Toolkit**, a regional freight analytics dashboard spanning 285+ Chicago municipalities (FTA FERSC initiative).
-- **Completed Google Summer of Code 2025**: a Temporary Road Closures API and database adopted by the OpenStreetMap Foundation.
-- **Shipping production ML systems**: MLOps serving with drift-gated retraining (GalaxyServe), a Kubernetes GitOps platform (GalaxyOps), and a Dagster transit lakehouse (TransitLake).
-- **Researching** responsible AI and algorithmic fairness, with a fairness-debugging tool accepted at **ASE 2026**.
+- **Freight Toolkit** at UIC's Urban Transportation Center: freight analytics for 285+ municipalities.
+- **Google Summer of Code 2025**, completed: a road-closures API adopted by the OpenStreetMap Foundation.
+- **Production ML**: GalaxyServe (MLOps), GalaxyOps (Kubernetes GitOps), TransitLake (Dagster lakehouse).
+- **FairLint-DL**, accepted at **ASE 2026**: fairness debugging inside VS Code.
 
 ---
 
@@ -138,7 +134,7 @@ I work across the whole stack: React/Next.js front ends, FastAPI services, cloud
 
 ## 04 · Selected work
 
-> The flagship expeditions. The full survey of 40+ projects across AI/ML, web, Python, and Java is charted in the collapsible sections below.
+> The flagships. 40+ more are charted in the archive below.
 
 <table>
 <tr>
@@ -363,13 +359,13 @@ I work across the whole stack: React/Next.js front ends, FastAPI services, cloud
 </details>
 
 > [!NOTE]
-> Some deployed projects have broken backends because the paid services behind them are no longer running. The code tells the full story, and I'm happy to walk through any of it.
+> Some older demos have retired backends; the code tells the full story.
 
 <div align="center"><img src="assets/divider.svg" width="70%" alt="" /></div>
 
 ## 06 · Research & publications
 
-9 papers and preprints across software engineering, ML fairness, and AI safety, including peer-reviewed work at **ASE 2026**, a **NeurIPS 2023** workshop, and **Springer** book chapters.
+9 papers and reports; peer-reviewed at **ASE 2026**, **NeurIPS 2023**, and **Springer ×2**.
 
 | Publication | Venue | Year | Links |
 | ----------- | ----- | :--: | :---: |
@@ -399,7 +395,7 @@ I work across the whole stack: React/Next.js front ends, FastAPI services, cloud
 <div align="center">
 
 <a href="https://github.com/Archit1706">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Archit1706&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0a0e1a&title_color=e3a857&text_color=a9a496&icon_color=8fd6c5&ring_color=e3a857" alt="Archit's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Archit1706&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0a0e1a&title_color=e3a857&text_color=d8d3c5&icon_color=8fd6c5&ring_color=e3a857" alt="Archit's GitHub stats" />
 </a>
 <a href="https://github.com/Archit1706">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archit1706&layout=compact&hide_border=true&langs_count=8&bg_color=0a0e1a&title_color=e3a857&text_color=eae7db" alt="Top languages" />
@@ -408,12 +404,12 @@ I work across the whole stack: React/Next.js front ends, FastAPI services, cloud
 <br/>
 
 <a href="https://github.com/Archit1706">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Archit1706&hide_border=true&background=0a0e1a&ring=e3a857&fire=f0bd72&currStreakNum=eae7db&sideNums=eae7db&currStreakLabel=a9a496&sideLabels=a9a496&dates=716e64&stroke=172033" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Archit1706&hide_border=true&background=0a0e1a&ring=e3a857&fire=f0bd72&currStreakNum=eae7db&sideNums=eae7db&currStreakLabel=d8d3c5&sideLabels=d8d3c5&dates=b3ae9f&stroke=172033" alt="GitHub streak" />
 </a>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Archit1706&hide_border=true&bg_color=0a0e1a&color=a9a496&line=e3a857&point=eae7db&area=true&area_color=e3a857&title_color=eae7db" alt="Contribution activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Archit1706&hide_border=true&bg_color=0a0e1a&color=d8d3c5&line=e3a857&point=eae7db&area=true&area_color=e3a857&title_color=eae7db" alt="Contribution activity graph" />
 
 </div>
 
@@ -432,7 +428,7 @@ I work across the whole stack: React/Next.js front ends, FastAPI services, cloud
 
 <br/>
 
-**Open to Software Engineering, AI/ML, and Full-Stack roles starting 2026. Let's build something that matters.**
+**Open to Software Engineering, AI/ML, and Full-Stack roles · 2026.**
 
 <img src="assets/footer-atlas.svg" width="100%" alt="Surveyed and maintained by Archit Rathod · Chicago, IL" />
 

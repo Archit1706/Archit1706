@@ -1,18 +1,18 @@
 <svg width="1200" height="36" viewBox="0 0 1200 36" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
   <!-- MIDNIGHT ATLAS · surveyor's divider -->
-  <line x1="0" y1="18" x2="560" y2="18" stroke="#a9a496" stroke-opacity="0.28" stroke-width="1"/>
-  <line x1="640" y1="18" x2="1200" y2="18" stroke="#a9a496" stroke-opacity="0.28" stroke-width="1"/>
+  <line x1="0" y1="18" x2="560" y2="18" stroke="#d8d3c5" stroke-opacity="0.4" stroke-width="1"/>
+  <line x1="640" y1="18" x2="1200" y2="18" stroke="#d8d3c5" stroke-opacity="0.4" stroke-width="1"/>
 
   <!-- survey ticks -->
-  <g stroke="#a9a496" stroke-opacity="0.35" stroke-width="1">
+  <g stroke="#d8d3c5" stroke-opacity="0.5" stroke-width="1">
     <path d="M100 14v8M220 15.5v5M340 14v8M460 15.5v5M740 15.5v5M860 14v8M980 15.5v5M1100 14v8"/>
   </g>
 
   <!-- route dash flowing along the line -->
-  <line x1="0" y1="18" x2="560" y2="18" stroke="#e3a857" stroke-opacity="0.55" stroke-width="1" stroke-dasharray="7 110">
+  <line x1="0" y1="18" x2="560" y2="18" stroke="#e3a857" stroke-opacity="0.75" stroke-width="1" stroke-dasharray="7 110">
     <animate attributeName="stroke-dashoffset" values="0;-234" dur="9s" repeatCount="indefinite"/>
   </line>
-  <line x1="640" y1="18" x2="1200" y2="18" stroke="#e3a857" stroke-opacity="0.55" stroke-width="1" stroke-dasharray="7 110">
+  <line x1="640" y1="18" x2="1200" y2="18" stroke="#e3a857" stroke-opacity="0.75" stroke-width="1" stroke-dasharray="7 110">
     <animate attributeName="stroke-dashoffset" values="0;-234" dur="9s" begin="4.5s" repeatCount="indefinite"/>
   </line>
 
