@@ -10,8 +10,8 @@
     <animate attributeName="opacity" from="0" to="1" dur="0.7s" begin="0.1s" fill="freeze"/>
     <text x="24" y="66" font-family="Georgia, 'Times New Roman', serif" font-size="44" fill="#eae7db">9</text>
     <path d="M24 84h18" stroke="#e3a857" stroke-width="1.5"/>
-    <text x="24" y="108" font-family="Consolas, 'DejaVu Sans Mono', Menlo, monospace" font-size="15.5" letter-spacing="1.5" fill="#b3ae9f">PUBLICATIONS</text>
-    <text x="24" y="128" font-family="Consolas, 'DejaVu Sans Mono', Menlo, monospace" font-size="15.5" letter-spacing="1.5" fill="#b3ae9f">&amp; REPORTS</text>
+    <text x="24" y="108" font-family="Consolas, 'DejaVu Sans Mono', Menlo, monospace" font-size="18" letter-spacing="1" fill="#b3ae9f">PUBLICATIONS</text>
+    <text x="24" y="128" font-family="Consolas, 'DejaVu Sans Mono', Menlo, monospace" font-size="18" letter-spacing="1" fill="#b3ae9f">&amp; REPORTS</text>
   </g>
 
   <!-- cell 2 -->
@@ -19,8 +19,8 @@
     <animate attributeName="opacity" from="0" to="1" dur="0.7s" begin="0.25s" fill="freeze"/>
     <text x="224" y="66" font-family="Georgia, 'Times New Roman', serif" font-size="44" fill="#eae7db">40<tspan fill="#e3a857">+</tspan></text>
     <path d="M224 84h18" stroke="#e3a857" stroke-width="1.5"/>
-    <text x="224" y="108" font-family="Consolas, 'DejaVu Sans Mono', Menlo, monospace" font-size="15.5" letter-spacing="1.5" fill="#b3ae9f">PROJECTS</text>
-    <text x="224" y="128" font-family="Consolas, 'DejaVu Sans Mono', Menlo, monospace" font-size="15.5" letter-spacing="1.5" fill="#b3ae9f">CHARTED</text>
+    <text x="224" y="108" font-family="Consolas, 'DejaVu Sans Mono', Menlo, monospace" font-size="18" letter-spacing="1" fill="#b3ae9f">PROJECTS</text>
+    <text x="224" y="128" font-family="Consolas, 'DejaVu Sans Mono', Menlo, monospace" font-size="18" letter-spacing="1" fill="#b3ae9f">CHARTED</text>
   </g>
 
   <!-- cell 3 -->
@@ -28,8 +28,8 @@
     <animate attributeName="opacity" from="0" to="1" dur="0.7s" begin="0.4s" fill="freeze"/>
     <text x="424" y="66" font-family="Georgia, 'Times New Roman', serif" font-size="44" fill="#eae7db">285<tspan fill="#e3a857">+</tspan></text>
     <path d="M424 84h18" stroke="#e3a857" stroke-width="1.5"/>
-    <text x="424" y="108" font-family="Consolas, 'DejaVu Sans Mono', Menlo, monospace" font-size="15.5" letter-spacing="1.5" fill="#b3ae9f">MUNICIPALITIES</text>
-    <text x="424" y="128" font-family="Consolas, 'DejaVu Sans Mono', Menlo, monospace" font-size="15.5" letter-spacing="1.5" fill="#b3ae9f">SERVED</text>
+    <text x="424" y="108" font-family="Consolas, 'DejaVu Sans Mono', Menlo, monospace" font-size="18" letter-spacing="1" fill="#b3ae9f">MUNICIPALITIES</text>
+    <text x="424" y="128" font-family="Consolas, 'DejaVu Sans Mono', Menlo, monospace" font-size="18" letter-spacing="1" fill="#b3ae9f">SERVED</text>
   </g>
 
   <!-- cell 4 -->
@@ -37,8 +37,8 @@
     <animate attributeName="opacity" from="0" to="1" dur="0.7s" begin="0.55s" fill="freeze"/>
     <text x="624" y="66" font-family="Georgia, 'Times New Roman', serif" font-size="44" fill="#eae7db">8.5M<tspan fill="#e3a857">+</tspan></text>
     <path d="M624 84h18" stroke="#e3a857" stroke-width="1.5"/>
-    <text x="624" y="108" font-family="Consolas, 'DejaVu Sans Mono', Menlo, monospace" font-size="15.5" letter-spacing="1.5" fill="#b3ae9f">OD PAIRS</text>
-    <text x="624" y="128" font-family="Consolas, 'DejaVu Sans Mono', Menlo, monospace" font-size="15.5" letter-spacing="1.5" fill="#b3ae9f">PROCESSED</text>
+    <text x="624" y="108" font-family="Consolas, 'DejaVu Sans Mono', Menlo, monospace" font-size="18" letter-spacing="1" fill="#b3ae9f">OD PAIRS</text>
+    <text x="624" y="128" font-family="Consolas, 'DejaVu Sans Mono', Menlo, monospace" font-size="18" letter-spacing="1" fill="#b3ae9f">PROCESSED</text>
   </g>
 
   <!-- cell 5 -->
@@ -46,8 +46,8 @@
     <animate attributeName="opacity" from="0" to="1" dur="0.7s" begin="0.7s" fill="freeze"/>
     <text x="824" y="66" font-family="Georgia, 'Times New Roman', serif" font-size="42" fill="#eae7db">103,481</text>
     <path d="M824 84h18" stroke="#e3a857" stroke-width="1.5"/>
-    <text x="824" y="108" font-family="Consolas, 'DejaVu Sans Mono', Menlo, monospace" font-size="15.5" letter-spacing="1.5" fill="#b3ae9f">APPLICATIONS</text>
-    <text x="824" y="128" font-family="Consolas, 'DejaVu Sans Mono', Menlo, monospace" font-size="15.5" letter-spacing="1.5" fill="#b3ae9f">AUDITED</text>
+    <text x="824" y="108" font-family="Consolas, 'DejaVu Sans Mono', Menlo, monospace" font-size="18" letter-spacing="1" fill="#b3ae9f">APPLICATIONS</text>
+    <text x="824" y="128" font-family="Consolas, 'DejaVu Sans Mono', Menlo, monospace" font-size="18" letter-spacing="1" fill="#b3ae9f">AUDITED</text>
   </g>
 
   <!-- cell 6 -->
@@ -55,7 +55,7 @@
     <animate attributeName="opacity" from="0" to="1" dur="0.7s" begin="0.85s" fill="freeze"/>
     <text x="1024" y="66" font-family="Georgia, 'Times New Roman', serif" font-size="44" fill="#eae7db">5<tspan fill="#e3a857">+</tspan></text>
     <path d="M1024 84h18" stroke="#e3a857" stroke-width="1.5"/>
-    <text x="1024" y="108" font-family="Consolas, 'DejaVu Sans Mono', Menlo, monospace" font-size="15.5" letter-spacing="1.5" fill="#b3ae9f">YEARS</text>
-    <text x="1024" y="128" font-family="Consolas, 'DejaVu Sans Mono', Menlo, monospace" font-size="15.5" letter-spacing="1.5" fill="#b3ae9f">SHIPPING</text>
+    <text x="1024" y="108" font-family="Consolas, 'DejaVu Sans Mono', Menlo, monospace" font-size="18" letter-spacing="1" fill="#b3ae9f">YEARS</text>
+    <text x="1024" y="128" font-family="Consolas, 'DejaVu Sans Mono', Menlo, monospace" font-size="18" letter-spacing="1" fill="#b3ae9f">SHIPPING</text>
   </g>
 </svg>

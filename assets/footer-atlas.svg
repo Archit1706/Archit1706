@@ -13,9 +13,9 @@
 
   <line x1="44" y1="30" x2="1156" y2="30" stroke="#eae7db" stroke-opacity="0.14" stroke-width="1"/>
 
-  <text x="46" y="62" font-family="Consolas, 'DejaVu Sans Mono', Menlo, monospace" font-size="15.5" letter-spacing="2" fill="#b3ae9f">SURVEYED <tspan fill="#e3a857">&amp;</tspan> MAINTAINED BY ARCHIT RATHOD</text>
-  <text x="1154" y="62" text-anchor="end" font-family="Consolas, 'DejaVu Sans Mono', Menlo, monospace" font-size="15.5" letter-spacing="2" fill="#b3ae9f">CHICAGO, IL · 41.8781°N <tspan fill="#e3a857">✦</tspan></text>
-  <text x="600" y="62" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="17" font-style="italic" fill="#d8d3c5">fin.</text>
+  <text x="46" y="62" font-family="Consolas, 'DejaVu Sans Mono', Menlo, monospace" font-size="18" letter-spacing="1.5" fill="#b3ae9f">SURVEYED <tspan fill="#e3a857">&amp;</tspan> MAINTAINED BY ARCHIT RATHOD</text>
+  <text x="1154" y="62" text-anchor="end" font-family="Consolas, 'DejaVu Sans Mono', Menlo, monospace" font-size="18" letter-spacing="1.5" fill="#b3ae9f">CHICAGO, IL · 41.8781°N <tspan fill="#e3a857">✦</tspan></text>
+  <text x="600" y="62" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="19" font-style="italic" fill="#d8d3c5">fin.</text>
 
   <!-- beacon -->
   <circle cx="600" cy="96" r="2.5" fill="#e3a857"/>
