@@ -56,7 +56,7 @@
 
   <!-- annotations -->
   <text x="52" y="62" font-family="Consolas, 'DejaVu Sans Mono', Menlo, monospace" font-size="22" letter-spacing="2.5" fill="#d8d3c5">OPEN-SOURCE WORK</text>
-  <text x="1148" y="62" text-anchor="end" font-family="Consolas, 'DejaVu Sans Mono', Menlo, monospace" font-size="22" letter-spacing="2" fill="#b3ae9f">CHICAGO, IL · 41.8781°N</text>
+  <text x="1148" y="62" text-anchor="end" font-family="Consolas, 'DejaVu Sans Mono', Menlo, monospace" font-size="22" letter-spacing="2" fill="#b3ae9f">SEATTLE, WA</text>
 
   <!-- glow behind name -->
   <ellipse cx="420" cy="320" rx="480" ry="200" fill="url(#glow)"/>

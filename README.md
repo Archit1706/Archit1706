@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner-atlas.svg" width="100%" alt="Archit Rathod · software engineer and ML fairness researcher · Chicago, IL" />
+<img src="assets/banner-atlas.svg" width="100%" alt="Archit Rathod · software engineer and ML fairness researcher · Seattle, WA" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-architr.vercel.app-172033?style=flat-square&logo=vercel&logoColor=E3A857)](https://architr.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-archit--rathod-172033?style=flat-square&logo=linkedin&logoColor=E3A857)](https://www.linkedin.com/in/archit-rathod)
@@ -417,6 +417,6 @@ I build systems that are **measurably correct** and **demonstrably fair**, from 
 
 **Open to Software Engineering, AI/ML, and Full-Stack roles · 2026.**
 
-<img src="assets/footer-atlas.svg" width="100%" alt="Surveyed and maintained by Archit Rathod · Chicago, IL" />
+<img src="assets/footer-atlas.svg" width="100%" alt="Surveyed and maintained by Archit Rathod · Seattle, WA" />
 
 </div>

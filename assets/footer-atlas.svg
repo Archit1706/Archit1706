@@ -1,4 +1,4 @@
-<svg width="1200" height="130" viewBox="0 0 1200 130" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Surveyed and maintained by Archit Rathod, Chicago, Illinois">
+<svg width="1200" height="130" viewBox="0 0 1200 130" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Surveyed and maintained by Archit Rathod, Seattle, Washington">
   <!-- MIDNIGHT ATLAS · footer -->
   <rect width="1200" height="130" fill="#0a0e1a"/>
 
@@ -14,7 +14,7 @@
   <line x1="44" y1="30" x2="1156" y2="30" stroke="#eae7db" stroke-opacity="0.14" stroke-width="1"/>
 
   <text x="46" y="62" font-family="Consolas, 'DejaVu Sans Mono', Menlo, monospace" font-size="18" letter-spacing="1.5" fill="#b3ae9f">SURVEYED <tspan fill="#e3a857">&amp;</tspan> MAINTAINED BY ARCHIT RATHOD</text>
-  <text x="1154" y="62" text-anchor="end" font-family="Consolas, 'DejaVu Sans Mono', Menlo, monospace" font-size="18" letter-spacing="1.5" fill="#b3ae9f">CHICAGO, IL · 41.8781°N <tspan fill="#e3a857">✦</tspan></text>
+  <text x="1154" y="62" text-anchor="end" font-family="Consolas, 'DejaVu Sans Mono', Menlo, monospace" font-size="18" letter-spacing="1.5" fill="#b3ae9f">SEATTLE, WA <tspan fill="#e3a857">✦</tspan></text>
   <text x="600" y="62" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="19" font-style="italic" fill="#d8d3c5">fin.</text>
 
   <!-- beacon -->

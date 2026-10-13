@@ -44,7 +44,7 @@
   <!-- annotations -->
   <text x="46" y="56" font-family="Consolas, 'DejaVu Sans Mono', Menlo, monospace" font-size="19" letter-spacing="2" fill="#d8d3c5">SOFTWARE ENGINEER &amp; ML FAIRNESS RESEARCHER</text>
   <text x="1154" y="56" text-anchor="end" font-family="Consolas, 'DejaVu Sans Mono', Menlo, monospace" font-size="19" letter-spacing="2" fill="#b3ae9f">FIG. 01 · PROFILE</text>
-  <text x="1154" y="78" text-anchor="end" font-family="Consolas, 'DejaVu Sans Mono', Menlo, monospace" font-size="19" letter-spacing="2" fill="#b3ae9f">CHICAGO, IL · 41.8781°N 87.6298°W</text>
+  <text x="1154" y="78" text-anchor="end" font-family="Consolas, 'DejaVu Sans Mono', Menlo, monospace" font-size="19" letter-spacing="2" fill="#b3ae9f">SEATTLE, WA</text>
 
   <!-- glow behind name -->
   <ellipse cx="330" cy="185" rx="420" ry="150" fill="url(#glow)"/>
