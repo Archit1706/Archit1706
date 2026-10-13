@@ -1,4 +1,4 @@
-<svg width="1584" height="396" viewBox="0 0 1584 396" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Software engineer. Measurably correct, demonstrably fair.">
+<svg width="1584" height="396" viewBox="0 0 1584 396" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Software development engineer. Measurably correct, demonstrably fair.">
   <!-- MIDNIGHT ATLAS · LinkedIn banner · 1584x396
        Safe zone: centered 1200x300 (x 192-1392, y 48-348). All text lives right of
        x=600 so the bottom-left profile photo and left third stay clear.
@@ -59,7 +59,7 @@
   <ellipse cx="900" cy="210" rx="480" ry="170" fill="url(#glow)"/>
 
   <!-- text block · starts at x 600, leaving the left third clear -->
-  <text x="600" y="132" font-family="Consolas, 'DejaVu Sans Mono', Menlo, monospace" font-size="24" letter-spacing="5" fill="#d8d3c5">SOFTWARE ENGINEER · AI/ML · FULL-STACK</text>
+  <text x="600" y="132" font-family="Consolas, 'DejaVu Sans Mono', Menlo, monospace" font-size="24" letter-spacing="5" fill="#d8d3c5">SOFTWARE DEVELOPMENT ENGINEER</text>
 
   <text x="597" y="212" font-family="Georgia, 'Times New Roman', serif" font-size="62" letter-spacing="-1" fill="#eae7db">Measurably <tspan font-style="italic">correct</tspan>.</text>
   <text x="597" y="284" font-family="Georgia, 'Times New Roman', serif" font-size="62" letter-spacing="-1" fill="#eae7db">Demonstrably <tspan font-style="italic" fill="#e3a857">fair</tspan>.</text>
